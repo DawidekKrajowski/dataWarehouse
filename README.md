@@ -16,7 +16,7 @@ An end-to-end data engineering and business intelligence solution analyzing poli
 
 > 💡 **Interactive Files:**
 > - 📄 [View Full PDF Report](data/Insurance_Operations_Dashboard.pdf)
-> - 📊 [Download Native Power BI Workbook (.pbix)](data/Insurance_operations_dashboard.pbix)
+> - 📊 [Download Native Power BI Workbook (.pbix)](data/insurance_dashboard.pbit)
 
 ## 🛠️ Tech Stack & Architecture
 - **Data Warehouse:** DuckDB / MotherDuck (Cloud Data Warehousing)
