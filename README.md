@@ -15,8 +15,8 @@ A end-to-end local data engineering pipeline built with **DuckDB** and **Python*
 An end-to-end data engineering and business intelligence solution analyzing policy collections, premium revenue distributions, and payment status trends.
 
 > 💡 **Interactive Files:**
-> - 📄 [View Full PDF Report](insurance_operations_dashboard.pdf)
-> - 📊 [Download Native Power BI Workbook (.pbix)](insurance_operations_dashboard.pbix)
+> - 📄 [View Full PDF Report](data/insurance_operations_dashboard.pdf)
+> - 📊 [Download Native Power BI Workbook (.pbix)](data/insurance_operations_dashboard.pbix)
 
 ## 🛠️ Tech Stack & Architecture
 - **Data Warehouse:** DuckDB / MotherDuck (Cloud Data Warehousing)
