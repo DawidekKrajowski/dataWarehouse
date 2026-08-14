@@ -1,0 +1,1201 @@
+transaction_id,customer_id,policy_id,transaction_date,product_type,policy_status,premium_amount,province,payment_frequency,payment_status
+1734,C0734,P10734,2026-01-15,Life,Lapsed,2666.85,Nova Scotia,ANNUAL ,Pending
+1866,C0866,P10866,2026-03-24,Annuity,Active,4410.05,Ontario,Quarterly,Pending
+1102,C0102,P10102,2026-02-02,  life  ,Pending,2289.07,Quebec,  annual  ,Overdue
+1440,C0440,P10440,2026-02-11,Annuity,LAPSED ,1126.72,British Columbia,Annual,PENDING 
+1059,C0059,P10059,2026-03-18T00:00:00.000000000,Annuity,Pending,1407.74,  ontario  ,Monthly,Pending
+2121,C1121,P11121,2026-01-04,Life,Pending,3749.32,Manitoba,Monthly,Overdue
+1324,C0324,P10324,2026-01-05,Life,Lapsed,897.84,Nova Scotia,Monthly,Overdue
+1975,C0975,P10975,2026-02-04,Life,PENDING ,4038.24,Alberta,Annual,Overdue
+1412,C0412,P10412,2026-01-13,  life  ,Pending,3580.57,Alberta,Quarterly,Pending
+1856,C0856,P10856,2026-03-31,Annuity,Lapsed,2068.58,British Columbia,Quarterly,  pending  
+1821,C0821,P10821,2026-03-25,Life,  lapsed  ,2207.11,Manitoba,Quarterly,Pending
+1045,C0045,P10045,2026-02-04,Annuity,Lapsed,3970.72,Alberta,Monthly,Pending
+1050,C0050,P10050,2026-99-99,Annuity,Pending,3509.79,British Columbia,Quarterly,Paid
+1850,C0850,P10850,2026-01-08T00:00:00.000000000,Life,Active,4390.74,Alberta,MONTHLY ,Paid
+1241,C0241,P10241,2026-01-12T00:00:00.000000000,  annuity  ,Pending,1978.99,Quebec,Quarterly,Paid
+1171,C0171,P10171,2026-03-11,Life,Active,1864.69,Nova Scotia,Annual,Pending
+1524,C0524,P10524,2026-01-07,LIFE ,PENDING ,3349.58,Alberta,Annual,Pending
+1766,C0766,P10766,2026-02-19,Life,Pending,3313.87,Ontario,Quarterly,  overdue  
+1839,C0839,P10839,2026-02-07,Life,Active,1128.43,  british columbia  ,Monthly,Paid
+1424,C0424,P10424,2026-03-13T00:00:00.000000000,Annuity,Lapsed,4225.73,Nova Scotia,Monthly,Overdue
+1381,C0381,P10381,2026-01-08,Life,Lapsed,3139.41,British Columbia,Quarterly,Paid
+1610,C0610,P10610,2026-02-02T00:00:00.000000000,Life,ACTIVE ,4486.9,Alberta,Annual,Overdue
+1677,C0677,P10677,2026-01-07T00:00:00.000000000,Life,Pending,4467.37,British Columbia,Quarterly,  pending  
+1345,C0345,P10345,2026-03-16,Annuity,LAPSED ,1124.72,Quebec,Annual,Pending
+1110,C0110,P10110,2026-01-01T00:00:00.000000000,Life,Active,918.96,  quebec  ,Monthly,  overdue  
+1278,C0278,P10278,2026-01-20,Annuity,Pending,839.46,Quebec,ANNUAL ,Overdue
+1678,C0678,P10678,2026-02-14,  life  ,Pending,4423.3,Alberta,ANNUAL ,Paid
+1571,C0571,P10571,2026-03-14,Annuity,Active,3969.1,Quebec,Monthly,  overdue  
+1359,C0359,P10359,2026-01-26,Annuity,Lapsed,4097.35,Ontario,  quarterly  ,Paid
+1599,C0599,P10599,2026-02-08T00:00:00.000000000,Annuity,Active,2548.15,British Columbia,Annual,Pending
+1391,C0391,P10391,2026-01-24,Life,Lapsed,4535.44,,Annual,Pending
+1894,C0894,P10894,2026-02-21T00:00:00.000000000,Annuity,  active  ,3515.43,ONTARIO ,Quarterly,Pending
+1693,C0693,P10693,2026-01-22,Life,Lapsed,4717.53,  nova scotia  ,Quarterly,  pending  
+1728,C0728,P10728,2026-01-08,Annuity,Pending,3969.15,QUEBEC ,Monthly,Pending
+1363,C0363,P10363,2026-01-01,Annuity,Active,880.33,Alberta,Monthly,Overdue
+1597,C0597,P10597,2026-02-28T00:00:00.000000000,Annuity,Active,4749.2,Nova Scotia,Quarterly,Pending
+1428,C0428,P10428,2026-03-19,Annuity,Pending,2853.79,  ontario  ,Annual,Paid
+1071,C0071,P10071,2026-03-03T00:00:00.000000000,LIFE ,Lapsed,2927.04,Manitoba,Monthly,Paid
+1322,C0322,P10322,2026-01-03,ANNUITY ,Active,2840.74,ALBERTA ,Monthly,OVERDUE 
+1653,C0653,P10653,2026-03-08T00:00:00.000000000,Annuity,Lapsed,1728.32,Nova Scotia,Quarterly,Pending
+2066,C1066,P11066,2026-02-18T00:00:00.000000000,Annuity,Pending,1649.36,Alberta,Monthly,Overdue
+1108,C0108,P10108,2026-01-16T00:00:00.000000000,Life,Lapsed,4177.5,Nova Scotia,  quarterly  ,Pending
+2109,C1109,P11109,2026-03-30T00:00:00.000000000,Annuity,Lapsed,2997.88,Ontario,Annual,Paid
+1356,C0356,P10356,2026-03-31T00:00:00.000000000,Life,Pending,4523.98,Quebec,Annual,  pending  
+1951,C0951,P10951,2026-01-22T00:00:00.000000000,Annuity,Active,3030.34,Alberta,Annual,Overdue
+1343,C0343,P10343,2026-02-12,Life,Pending,1580.66,Alberta,Monthly,Paid
+1355,C0355,P10355,2026-99-99,Annuity,Active,2573.5,Ontario,Quarterly,Paid
+1024,C0024,P10024,2026-01-08,Life,  pending  ,654.75,Manitoba,Monthly,Pending
+1044,C0044,P10044,2026-03-22,Annuity,Active,3701.04,British Columbia,Monthly,PENDING 
+1244,C0244,P10244,2026-02-08,Annuity,Active,910.43,British Columbia,Monthly,Overdue
+1738,C0738,P10738,2026-03-01,Annuity,Lapsed,788.94,Nova Scotia,Monthly,Pending
+2136,C1136,P11136,2026-02-18T00:00:00.000000000,Life,Lapsed,3364.21,Ontario,  monthly  ,Overdue
+1368,C0368,P10368,2026-01-26,Life,Pending,665.07,Manitoba,Annual,Overdue
+1164,C0164,P10164,2026-03-28T00:00:00.000000000,Annuity,Pending,624.28,British Columbia,Quarterly,Overdue
+2116,C1116,P11116,2026-01-14T00:00:00.000000000,Annuity,Pending,3872.95,Ontario,Quarterly,Pending
+1333,C0333,P10333,2026-02-21,ANNUITY ,Active,2963.51,Nova Scotia,Monthly,Pending
+1989,C0989,P10989,2026-02-02,Annuity,PENDING ,4652.41,Quebec,Quarterly,Paid
+2119,C1119,P11119,2026-03-11,Life,Pending,4444.93,Ontario,Quarterly,Paid
+2002,C1002,P11002,2026-02-01,Annuity,Lapsed,1472.17,MANITOBA ,Annual,Overdue
+1378,C0378,P10378,2026-03-09T00:00:00.000000000,Life,Active,2097.97,Manitoba,Quarterly,Overdue
+1310,C0310,P10310,2026-03-22T00:00:00.000000000,  annuity  ,Active,2904.56,Alberta,Quarterly,Pending
+1156,C0156,P10156,2026-02-17,LIFE ,Lapsed,,British Columbia,Annual,Pending
+1211,C0211,P10211,2026-02-12,Life,Active,4736.59,Quebec,  quarterly  ,Paid
+1087,C0087,P10087,2026-01-01T00:00:00.000000000,Annuity,Active,1578.03,Alberta,Monthly,Paid
+1169,C0169,P10169,2026-02-27,Annuity,Lapsed,4371.82,Nova Scotia,Quarterly,Overdue
+1995,C0995,P10995,2026-01-08,Life,Pending,2652.05,Ontario,Annual,Paid
+1052,C0052,P10052,2026-03-27T00:00:00.000000000,Life,Lapsed,INVALID_AMT,British Columbia,Annual,Overdue
+1439,C0439,P10439,2026-01-07,ANNUITY ,Pending,3787.47,Nova Scotia,Monthly,Overdue
+1550,C0550,P10550,2026-01-17T00:00:00.000000000,Annuity,Pending,2323.62,Alberta,Monthly,  pending  
+1491,C0491,P10491,2026-03-26,LIFE ,Pending,INVALID_AMT,Nova Scotia,Monthly,Overdue
+1426,C0426,P10426,2026-02-04,Life,Pending,1239.2,Ontario,Annual,Pending
+1136,C0136,P10136,2026-03-10T00:00:00.000000000,Annuity,Pending,1535.83,Manitoba,Annual,PAID 
+1578,C0578,P10578,2026-01-12T00:00:00.000000000,Annuity,Active,2124.38,Alberta,Quarterly,Pending
+1055,C0055,P10055,2026-01-01,Annuity,Active,3747.78,Ontario,Monthly,  overdue  
+1079,C0079,P10079,2026-01-24,Life,Pending,4743.09,Alberta,Annual,Pending
+1431,C0431,P10431,2026-02-09,Life,Lapsed,2533.77,British Columbia,Annual,Pending
+1185,C0185,P10185,2026-02-27,Annuity,Active,4618.46,British Columbia,Monthly,Overdue
+1057,C0057,P10057,2026-99-99,Life,Pending,-3697.98,,Annual,  paid  
+1943,C0943,P10943,2026-02-01,Annuity,Active,2930.05,Manitoba,Quarterly,Paid
+1851,C0851,P10851,2026-03-17,Life,  active  ,1008.99,Ontario,Monthly,Paid
+1771,C0771,P10771,2026-01-03,Life,Pending,683.39,QUEBEC ,Annual,Pending
+1219,C0219,P10219,2026-01-26T00:00:00.000000000,Annuity,ACTIVE ,3567.26,Alberta,QUARTERLY ,Paid
+1845,C0845,P10845,2026-01-05,Life,Pending,4835.06,Ontario,Annual,Paid
+1114,C0114,P10114,2026-01-19,Annuity,Active,3766.8,Manitoba,Monthly,Overdue
+1549,C0549,P10549,2026-02-10,Life,Pending,1733.25,British Columbia,Quarterly,Paid
+2019,C1019,P11019,2026-01-07,Annuity,Pending,2864.77,Manitoba,Monthly,Paid
+2073,C1073,P11073,2026-02-22,Life,Lapsed,4641.34,Ontario,Annual,Paid
+1175,C0175,P10175,2026-01-06,Annuity,Active,732.57,Ontario,Annual,Pending
+2023,C1023,P11023,2026-01-21T00:00:00.000000000,Annuity,Pending,586.37,Ontario,  annual  ,PAID 
+1616,C0616,P10616,2026-02-08,  annuity  ,Active,542.68,MANITOBA ,Monthly,Pending
+1514,C0514,P10514,2026-03-08T00:00:00.000000000,Life,Pending,1539.84,British Columbia,Annual,Pending
+1462,C0462,P10462,2026-01-12,LIFE ,Lapsed,4603.34,Alberta,Monthly,Overdue
+1287,C0287,P10287,2026-01-08T00:00:00.000000000,Life,Active,1263.56,Manitoba,Annual,Overdue
+1382,C0382,P10382,2026-03-24T00:00:00.000000000,Annuity,Lapsed,2204.48,Nova Scotia,Annual,Pending
+2008,C1008,P11008,2026-01-31T00:00:00.000000000,Annuity,Active,3627.66,Ontario,Annual,Pending
+1671,C0671,P10671,2026-03-21,  annuity  ,Active,INVALID_AMT,Manitoba,ANNUAL ,Pending
+1535,C0535,P10535,2026-02-13T00:00:00.000000000,Annuity,Lapsed,1487.8,Ontario,Annual,Pending
+1910,C0910,P10910,2026-03-27,Annuity,Pending,3170.92,Ontario,Annual,Overdue
+1293,C0293,P10293,2026-01-17,Annuity,Lapsed,1758.94,Alberta,Quarterly,Overdue
+1124,C0124,P10124,2026-02-10,Annuity,Lapsed,1291.66,Manitoba,Monthly,Pending
+1583,C0583,P10583,2026-03-21,Annuity,Lapsed,4428.26,  manitoba  ,Quarterly,  pending  
+1141,C0141,P10141,2026-01-06T00:00:00.000000000,Annuity,Active,2165.71,Ontario,Quarterly,Overdue
+1736,C0736,P10736,2026-03-25T00:00:00.000000000,  annuity  ,Active,2436.38,Nova Scotia,Annual,Pending
+1082,C0082,P10082,2026-02-27,Annuity,Pending,4831.01,Ontario,QUARTERLY ,Pending
+1882,C0882,P10882,2026-01-05,Life,Pending,2294.7,Nova Scotia,  annual  ,Paid
+1740,C0740,P10740,2026-01-11,ANNUITY ,Pending,4929.58,MANITOBA ,Annual,Overdue
+2102,C1102,P11102,2026-01-30,Annuity,  lapsed  ,4429.95,Ontario,Monthly,Paid
+1909,C0909,P10909,2026-01-22,Life,  lapsed  ,4186.35,Alberta,QUARTERLY ,Paid
+1778,C0778,P10778,2026-02-22,Annuity,Lapsed,3464.18,,  quarterly  ,Overdue
+1937,C0937,P10937,2026-02-05T00:00:00.000000000,Life,Active,1363.4,Manitoba,Monthly,Paid
+1372,C0372,P10372,2026-01-15,Annuity,Active,971.91,ALBERTA ,Quarterly,  pending  
+1890,C0890,P10890,2026-03-16,Life,Active,2210.34,Alberta,Monthly,Paid
+1157,C0157,P10157,2026-02-11,Life,Active,-4142.13,Nova Scotia,Quarterly,  pending  
+1992,C0992,P10992,2026-02-21,Annuity,Pending,2761.55,Quebec,Quarterly,Paid
+1622,C0622,P10622,2026-02-18,Life,Active,997.13,Alberta,  monthly  ,Paid
+2038,C1038,P11038,2026-01-13,Annuity,Pending,1099.15,Alberta,Quarterly,Pending
+1245,C0245,P10245,2026-02-11T00:00:00.000000000,Annuity,Lapsed,4884.12,Nova Scotia,Annual,Pending
+1159,C0159,P10159,2026-01-13,Life,Pending,867.17,Alberta,Quarterly,Paid
+1746,C0746,P10746,2026-02-10,  annuity  ,Lapsed,678.28,Nova Scotia,  annual  ,Pending
+1193,C0193,P10193,2026-03-27T00:00:00.000000000,Annuity,Pending,564.77,Quebec,Quarterly,  pending  
+1534,C0534,P10534,2026-01-09,Life,Pending,2462.57,Nova Scotia,Quarterly,Pending
+1904,C0904,P10904,2026-03-02,Annuity,Active,1654.53,Nova Scotia,Quarterly,Paid
+2004,C1004,P11004,2026-99-99,Life,ACTIVE ,2239.07,British Columbia,Monthly,Overdue
+2070,C1070,P11070,2026-01-10,LIFE ,Lapsed,-4094.21,British Columbia,Annual,Paid
+1414,C0414,P10414,2026-03-14,Annuity,Pending,3921.03,Alberta,Monthly,PENDING 
+1773,C0773,P10773,2026-03-16,ANNUITY ,  pending  ,3761.72,Alberta,MONTHLY ,Pending
+1328,C0328,P10328,2026-03-16T00:00:00.000000000,Life,Pending,1458.34,Nova Scotia,Monthly,PAID 
+1129,C0129,P10129,2026-99-99,Annuity,LAPSED ,921.54,Quebec,ANNUAL ,Pending
+1695,C0695,P10695,2026-01-17,Life,Pending,3969.43,  manitoba  ,  annual  ,Pending
+1631,C0631,P10631,2026-02-12,Life,Active,3148.49,British Columbia,ANNUAL ,Paid
+1275,C0275,P10275,2026-02-16,Annuity,Lapsed,4510.14,Alberta,Annual,Overdue
+2148,C1148,P11148,2026-03-16T00:00:00.000000000,Annuity,Lapsed,3829.94,British Columbia,Annual,  paid  
+1309,C0309,P10309,2026-02-24,Annuity,Active,4391.25,Quebec,Quarterly,PAID 
+1234,C0234,P10234,2026-03-30,Life,Pending,1940.22,Alberta,Quarterly,PENDING 
+2048,C1048,P11048,2026-03-28,Annuity,Active,2832.84,Alberta,Annual,Pending
+1623,C0623,P10623,2026-01-14,Annuity,Pending,1836.51,Nova Scotia,Monthly,Pending
+1644,C0644,P10644,2026-01-09,Life,Pending,4674.89,British Columbia,Annual,Pending
+1479,C0479,P10479,2026-01-26,Life,Active,2000.75,British Columbia,Quarterly,Pending
+1472,C0472,P10472,2026-03-31,Annuity,Lapsed,4275.04,British Columbia,Quarterly,Overdue
+1926,C0926,P10926,2026-01-10,Life,PENDING ,1655.98,Quebec,Annual,Overdue
+2098,C1098,P11098,2026-01-22T00:00:00.000000000,  life  ,Pending,2940.07,Manitoba,Annual,  pending  
+1627,C0627,P10627,2026-03-20,LIFE ,Pending,2424.98,Alberta,Quarterly,PENDING 
+1395,C0395,P10395,2026-03-07,Life,Active,3091.99,Quebec,Quarterly,Overdue
+1637,C0637,P10637,2026-01-20,Life,Lapsed,4270.22,Alberta,Annual,Paid
+1768,C0768,P10768,2026-01-07T00:00:00.000000000,Life,Pending,3473.69,British Columbia,Annual,Overdue
+1533,C0533,P10533,2026-02-06,Annuity,Pending,2342.35,NOVA SCOTIA ,Quarterly,Paid
+1718,C0718,P10718,2026-01-19,Annuity,Pending,1733.97,Alberta,Monthly,Overdue
+1667,C0667,P10667,2026-02-27,Life,  active  ,3070.94,British Columbia,Quarterly,Pending
+1598,C0598,P10598,2026-03-23,Life,Active,3852.79,Nova Scotia,QUARTERLY ,Pending
+1482,C0482,P10482,2026-01-02,Life,Pending,2595.65,Ontario,Monthly,Pending
+2103,C1103,P11103,2026-01-25,Life,Active,3925.05,Nova Scotia,Quarterly,Overdue
+1315,C0315,P10315,2026-03-26,Life,  active  ,2527.45,Quebec,  quarterly  ,Paid
+1729,C0729,P10729,2026-02-15,Life,Lapsed,2886.59,Manitoba,Quarterly,  paid  
+1210,C0210,P10210,2026-02-02,Annuity,Lapsed,4150.42,Quebec,MONTHLY ,PENDING 
+1934,C0934,P10934,2026-03-09,Annuity,Pending,3759.52,Ontario,Annual,Overdue
+1434,C0434,P10434,2026-03-04,Life,  active  ,2762.24,Manitoba,Annual,Paid
+1329,C0329,P10329,2026-02-07T00:00:00.000000000,Annuity,Lapsed,3277.69,British Columbia,Annual,Pending
+1261,C0261,P10261,2026-01-31T00:00:00.000000000,Annuity,Pending,2667.5,Alberta,Monthly,Overdue
+2117,C1117,P11117,2026-02-22,Annuity,Active,2155.73,BRITISH COLUMBIA ,MONTHLY ,Overdue
+1307,C0307,P10307,2026-02-18T00:00:00.000000000,Life,Active,4272.48,Alberta,Quarterly,Overdue
+2067,C1067,P11067,2026-03-09,Annuity,Lapsed,3985.85,Quebec,Annual,OVERDUE 
+1928,C0928,P10928,2026-01-25,Life,Lapsed,4945.03,Manitoba,Quarterly,Pending
+2025,C1025,P11025,2026-03-28,Annuity,Pending,1116.99,Ontario,Monthly,Pending
+1271,C0271,P10271,2026-01-25T00:00:00.000000000,Life,Lapsed,4408.7,  ontario  ,Annual,Overdue
+1291,C0291,P10291,2026-02-10,Annuity,Lapsed,1669.77,Alberta,Monthly,Pending
+1813,C0813,P10813,2026-02-05T00:00:00.000000000,Annuity,Pending,4864.19,Nova Scotia,Annual,Overdue
+1097,C0097,P10097,2026-01-03T00:00:00.000000000,Life,LAPSED ,3159.02,Ontario,Monthly,Paid
+1888,C0888,P10888,2026-03-21,Annuity,Lapsed,3413.64,Quebec,Monthly,Paid
+1819,C0819,P10819,2026-01-08,Annuity,Pending,3277.15,Quebec,ANNUAL ,  pending  
+1032,C0032,P10032,2026-01-14T00:00:00.000000000,Life,Active,3772.72,ONTARIO ,Annual,Overdue
+1763,C0763,P10763,2026-03-14,Life,Pending,733.87,NOVA SCOTIA ,Quarterly,OVERDUE 
+1954,C0954,P10954,2026-02-24,Annuity,Active,2911.22,Nova Scotia,Monthly,  pending  
+1320,C0320,P10320,2026-03-13,Annuity,Active,599.83,Quebec,Annual,Pending
+1299,C0299,P10299,2026-03-07T00:00:00.000000000,Annuity,Lapsed,872.37,Quebec,Annual,Pending
+1200,C0200,P10200,2026-01-23T00:00:00.000000000,Life,Lapsed,716.27,Quebec,Quarterly,  paid  
+1561,C0561,P10561,2026-01-26,Annuity,Pending,807.12,Alberta,Quarterly,Pending
+1179,C0179,P10179,2026-01-30,Life,Pending,684.8,Ontario,QUARTERLY ,Pending
+2132,C1132,P11132,2026-01-04,Annuity,Active,737.62,Nova Scotia,Annual,Paid
+1089,C0089,P10089,2026-03-31T00:00:00.000000000,Life,Lapsed,4935.43,NOVA SCOTIA ,Monthly,PAID 
+1788,C0788,P10788,2026-03-02T00:00:00.000000000,Annuity,  lapsed  ,4308.1,Ontario,Annual,Pending
+1725,C0725,P10725,2026-03-21,Annuity,  active  ,2944.55,Ontario,Quarterly,
+1827,C0827,P10827,2026-03-19T00:00:00.000000000,Life,Active,756.89,Nova Scotia,ANNUAL ,Overdue
+1209,C0209,P10209,2026-02-04,LIFE ,Pending,3394.8,Quebec,Annual,OVERDUE 
+2040,C1040,P11040,2026-01-09,Annuity,Pending,-4742.74,Nova Scotia,Annual,Overdue
+1297,C0297,P10297,2026-03-23,Annuity,Active,2374.88,Alberta,Quarterly,Paid
+1998,C0998,P10998,2026-01-12,Life,Pending,4846.2,British Columbia,Monthly,Pending
+1498,C0498,P10498,2026-02-20T00:00:00.000000000,Annuity,Lapsed,1444.58,Manitoba,Quarterly,Pending
+1835,C0835,P10835,2026-03-30,Life,Pending,3376.04,Nova Scotia,QUARTERLY ,Overdue
+1430,C0430,P10430,2026-02-11,Life,Pending,2266.0,Manitoba,Annual,Pending
+1507,C0507,P10507,2026-01-29,Annuity,Lapsed,839.77,Ontario,QUARTERLY ,Pending
+1831,C0831,P10831,2026-02-28T00:00:00.000000000,Life,Active,1922.7,  alberta  ,Quarterly,PENDING 
+1694,C0694,P10694,2026-03-09,Annuity,Lapsed,1854.34,Quebec,  annual  ,Paid
+1011,C0011,P10011,2026-03-30T00:00:00.000000000,Annuity,Lapsed,1810.53,Alberta,Monthly,Paid
+1848,C0848,P10848,2026-02-12T00:00:00.000000000,  annuity  ,Pending,3574.62,Quebec,Annual,Pending
+1463,C0463,P10463,2026-03-03,Annuity,Active,953.58,Manitoba,Monthly,Paid
+1199,C0199,P10199,2026-02-08T00:00:00.000000000,Life,Pending,2058.37,ONTARIO ,Quarterly,Paid
+1060,C0060,P10060,2026-02-21T00:00:00.000000000,ANNUITY ,Pending,3034.74,Manitoba,Monthly,Overdue
+1907,C0907,P10907,2026-02-13T00:00:00.000000000,  life  ,Lapsed,695.36,Quebec,Monthly,Pending
+1997,C0997,P10997,2026-03-09T00:00:00.000000000,Annuity,Pending,-859.84,Nova Scotia,Quarterly,Paid
+1276,C0276,P10276,2026-03-26T00:00:00.000000000,Life,Lapsed,4968.34,Quebec,Annual,OVERDUE 
+1809,C0809,P10809,2026-03-30T00:00:00.000000000,Annuity,Pending,4862.36,Ontario,Quarterly,Overdue
+1908,C0908,P10908,2026-02-16,Life,Lapsed,4781.32,Manitoba,Annual,Overdue
+1658,C0658,P10658,2026-01-11T00:00:00.000000000,Annuity,Pending,891.44,Ontario,Annual,Overdue
+1957,C0957,P10957,2026-01-17,Life,  pending  ,1853.84,Manitoba,Annual,Overdue
+1886,C0886,P10886,2026-02-12,Life,Active,-582.05,  ontario  ,  monthly  ,
+1221,C0221,P10221,2026-01-07,ANNUITY ,Pending,1031.74,Alberta,Quarterly,Pending
+1789,C0789,P10789,2026-02-06T00:00:00.000000000,Annuity,  active  ,2056.71,Quebec,Quarterly,Pending
+1712,C0712,P10712,2026-03-19,Life,Pending,1535.24,Ontario,Annual,Overdue
+1714,C0714,P10714,2026-03-22T00:00:00.000000000,Life,Active,,  british columbia  ,Monthly,Overdue
+2113,C1113,P11113,2026-02-05,Annuity,Pending,523.53,Quebec,Monthly,  overdue  
+1381,C0381,P10381,2026-01-08,Life,Lapsed,3139.41,  british columbia  ,Quarterly,Paid
+1790,C0790,P10790,2026-01-20,Annuity,PENDING ,2771.8,Ontario,Quarterly,Overdue
+1416,C0416,P10416,2026-02-07,  life  ,Lapsed,2353.28,Nova Scotia,  quarterly  ,Pending
+1899,C0899,P10899,2026-01-04,Annuity,Lapsed,4204.28,Nova Scotia,Annual,Pending
+1935,C0935,P10935,2026-02-11T00:00:00.000000000,Life,Lapsed,4574.86,British Columbia,Monthly,Paid
+1266,C0266,P10266,2026-02-27T00:00:00.000000000,Life,Active,3834.38,QUEBEC ,Monthly,Overdue
+1632,C0632,P10632,2026-02-08,Life,PENDING ,4456.03,,Monthly,OVERDUE 
+1248,C0248,P10248,2026-03-16,Life,Active,1026.8,British Columbia,Quarterly,Overdue
+1683,C0683,P10683,2026-01-02T00:00:00.000000000,Life,Pending,4244.6,Alberta,Annual,Paid
+1559,C0559,P10559,2026-02-23T00:00:00.000000000,Annuity,Pending,3821.15,Nova Scotia,Quarterly,Overdue
+2137,C1137,P11137,2026-03-24,  annuity  ,Active,763.48,Nova Scotia,Annual,Overdue
+1968,C0968,P10968,2026-01-23,Life,Active,1684.01,Manitoba,Monthly,Overdue
+2005,C1005,P11005,2026-01-05,Annuity,Active,4013.43,Quebec,MONTHLY ,Paid
+1985,C0985,P10985,2026-01-02,Annuity,Active,1506.26,Alberta,Quarterly,Pending
+1295,C0295,P10295,2026-01-29,Annuity,Pending,1099.33,Quebec,Quarterly,Paid
+1520,C0520,P10520,2026-02-15,Life,Lapsed,4235.99,British Columbia,Monthly,Overdue
+1771,C0771,P10771,2026-01-03,Life,Pending,683.39,Quebec,Annual,Pending
+1084,C0084,P10084,2026-02-25,Life,Lapsed,665.99,Nova Scotia,  quarterly  ,OVERDUE 
+1232,C0232,P10232,2026-01-30,Life,Active,4561.49,Alberta,Monthly,Paid
+1621,C0621,P10621,2026-03-25,Annuity,  pending  ,3819.12,British Columbia,Quarterly,Overdue
+1334,C0334,P10334,2026-03-29,Life,Lapsed,4597.12,Ontario,Monthly,Overdue
+1130,C0130,P10130,2026-03-27,Life,Lapsed,1693.41,Quebec,Annual,PENDING 
+2012,C1012,P11012,2026-01-07T00:00:00.000000000,Life,Pending,3614.73,Quebec,Quarterly,Paid
+1645,C0645,P10645,2026-03-02T00:00:00.000000000,Annuity,Lapsed,,British Columbia,Monthly,Pending
+1974,C0974,P10974,2026-03-23,Annuity,  pending  ,2820.56,  quebec  ,Monthly,Overdue
+1383,C0383,P10383,2026-01-06,ANNUITY ,Active,4548.41,,Quarterly,Overdue
+1868,C0868,P10868,2026-02-23,Annuity,Lapsed,3420.84,  ontario  ,  quarterly  ,Paid
+1543,C0543,P10543,2026-01-22T00:00:00.000000000,ANNUITY ,  pending  ,4257.19,Manitoba,Monthly,Pending
+1342,C0342,P10342,2026-03-18,Annuity,Pending,1441.09,Ontario,  monthly  ,Paid
+1875,C0875,P10875,2026-03-31,Life,Lapsed,3141.78,Ontario,Monthly,Overdue
+1332,C0332,P10332,2026-02-20,Annuity,  lapsed  ,4568.71,  ontario  ,MONTHLY ,Paid
+1410,C0410,P10410,2026-01-10,Annuity,Pending,2968.71,Nova Scotia,Monthly,Pending
+1077,C0077,P10077,2026-01-09,Annuity,Lapsed,2681.73,Alberta,Annual,Pending
+1869,C0869,P10869,2026-03-26T00:00:00.000000000,Annuity,Lapsed,1960.64,Alberta,Annual,Paid
+1139,C0139,P10139,2026-01-17,Life,Active,4975.48,Alberta,  quarterly  ,PENDING 
+1544,C0544,P10544,2026-01-04T00:00:00.000000000,LIFE ,Lapsed,1095.24,Alberta,Quarterly,Overdue
+1674,C0674,P10674,2026-02-14,Life,Active,3638.62,Ontario,Monthly,Paid
+1921,C0921,P10921,2026-02-16,Annuity,Active,1558.56,Manitoba,  annual  ,
+1064,C0064,P10064,2026-02-05,Annuity,Active,4742.84,Alberta,Annual,Paid
+1142,C0142,P10142,2026-02-06,Annuity,Pending,4677.43,Nova Scotia,Quarterly,Pending
+1717,C0717,P10717,2026-02-28,Life,Pending,4840.34,Ontario,Monthly,OVERDUE 
+1377,C0377,P10377,2026-01-13,  life  ,Pending,3171.17,Nova Scotia,Monthly,Paid
+1364,C0364,P10364,2026-02-21,Life,Pending,1442.07,Nova Scotia,Monthly,OVERDUE 
+1140,C0140,P10140,2026-01-30T00:00:00.000000000,ANNUITY ,Active,INVALID_AMT,British Columbia,Annual,Pending
+1885,C0885,P10885,2026-03-28,Life,Active,4158.44,Manitoba,Monthly,PENDING 
+2042,C1042,P11042,2026-01-29,Life,Lapsed,1757.15,  british columbia  ,Quarterly,Pending
+1225,C0225,P10225,2026-03-14,Life,Active,3058.34,Alberta,  quarterly  ,Overdue
+1515,C0515,P10515,2026-02-28,Annuity,Pending,2774.79,Nova Scotia,Quarterly,Paid
+1267,C0267,P10267,2026-03-13,Life,LAPSED ,1028.87,Ontario,Annual,  overdue  
+1991,C0991,P10991,2026-03-21,Life,Lapsed,3941.64,Alberta,Monthly,Overdue
+1487,C0487,P10487,2026-03-11,Life,Pending,652.46,British Columbia,Quarterly,Pending
+1353,C0353,P10353,2026-02-11,Annuity,Active,1296.55,Nova Scotia,Annual,Pending
+2006,C1006,P11006,2026-01-10,Annuity,Lapsed,1452.9,Alberta,Quarterly,Overdue
+1618,C0618,P10618,2026-03-03T00:00:00.000000000,ANNUITY ,Active,2659.44,Ontario,Quarterly,Pending
+1668,C0668,P10668,2026-02-09T00:00:00.000000000,Life,Active,3551.07,Nova Scotia,Quarterly,OVERDUE 
+1775,C0775,P10775,2026-01-13,LIFE ,Active,2656.76,Ontario,Monthly,Pending
+1554,C0554,P10554,2026-02-09,Annuity,Lapsed,1628.29,Ontario,  annual  ,Pending
+1576,C0576,P10576,2026-02-04T00:00:00.000000000,Annuity,Lapsed,4185.96,British Columbia,Quarterly,Paid
+1915,C0915,P10915,2026-02-06T00:00:00.000000000,Life,Pending,INVALID_AMT,  manitoba  ,Annual,Pending
+1466,C0466,P10466,2026-02-06,Annuity,  pending  ,3682.57,Quebec,Monthly,Overdue
+1591,C0591,P10591,2026-01-10T00:00:00.000000000,Annuity,Pending,3147.19,Nova Scotia,Annual,Pending
+1765,C0765,P10765,2026-03-17,Annuity,Active,4419.36,Nova Scotia,Annual,Overdue
+1635,C0635,P10635,2026-01-25,  annuity  ,Pending,3845.09,Quebec,Annual,Overdue
+1838,C0838,P10838,2026-99-99,Annuity,Lapsed,2041.94,British Columbia,Monthly,Paid
+1290,C0290,P10290,2026-01-28T00:00:00.000000000,Life,Lapsed,849.81,Ontario,  monthly  ,Overdue
+1040,C0040,P10040,2026-02-14,Annuity,  pending  ,835.48,Quebec,Annual,PAID 
+1031,C0031,P10031,2026-02-03,Annuity,Active,2278.18,Quebec,Quarterly,Overdue
+1243,C0243,P10243,2026-01-23,Life,  lapsed  ,4015.83,BRITISH COLUMBIA ,QUARTERLY ,Pending
+1429,C0429,P10429,2026-01-04,Life,  pending  ,1922.88,Nova Scotia,Monthly,
+1137,C0137,P10137,2026-02-17,Life,ACTIVE ,1763.48,ALBERTA ,Annual,  pending  
+2101,C1101,P11101,2026-01-19,Life,Pending,1182.06,MANITOBA ,  quarterly  ,Pending
+1865,C0865,P10865,2026-01-13,Annuity,Pending,4090.16,British Columbia,Quarterly,Overdue
+1004,C0004,P10004,2026-03-16,Annuity,Pending,4397.79,British Columbia,Annual,Overdue
+1833,C0833,P10833,2026-01-20,Annuity,Active,4939.84,Quebec,Quarterly,Paid
+1603,C0603,P10603,2026-03-01,Annuity,Active,2664.78,Nova Scotia,Monthly,Paid
+2034,C1034,P11034,2026-03-09,  life  ,Active,INVALID_AMT,Quebec,Annual,Paid
+1655,C0655,P10655,2026-01-25,  annuity  ,Pending,4334.87,Manitoba,Annual,Pending
+1844,C0844,P10844,2026-01-29,Annuity,Active,-2496.88,British Columbia,Quarterly,Paid
+1784,C0784,P10784,2026-02-04T00:00:00.000000000,Life,Active,1492.53,Manitoba,Quarterly,Overdue
+2074,C1074,P11074,2026-01-16T00:00:00.000000000,  annuity  ,Pending,4152.96,  manitoba  ,Quarterly,Paid
+1443,C0443,P10443,2026-01-27,Life,LAPSED ,4048.69,British Columbia,Quarterly,Pending
+2021,C1021,P11021,2026-03-27,  annuity  ,Lapsed,4837.2,British Columbia,Annual,Paid
+1436,C0436,P10436,2026-03-07T00:00:00.000000000,Life,Pending,2945.99,Ontario,ANNUAL ,Paid
+1671,C0671,P10671,2026-03-21,ANNUITY ,Active,3463.03,MANITOBA ,Annual,Pending
+1101,C0101,P10101,2026-03-12,LIFE ,Lapsed,1284.65,Alberta,Quarterly,Pending
+1773,C0773,P10773,2026-03-16,Annuity,Pending,3761.72,Alberta,Monthly,Pending
+1495,C0495,P10495,2026-03-02,Annuity,Active,1330.08,BRITISH COLUMBIA ,Annual,Overdue
+2028,C1028,P11028,2026-03-26,Life,Active,1394.85,British Columbia,Monthly,Paid
+1807,C0807,P10807,2026-03-30T00:00:00.000000000,Life,Pending,3481.8,Manitoba,Annual,Paid
+2142,C1142,P11142,2026-01-18,LIFE ,Pending,2171.4,Ontario,Quarterly,  paid  
+1846,C0846,P10846,2026-02-16,Life,  active  ,3616.82,British Columbia,Quarterly,Overdue
+1987,C0987,P10987,2026-01-10T00:00:00.000000000,Life,ACTIVE ,4201.16,  ontario  ,Quarterly,Overdue
+1228,C0228,P10228,2026-01-24,Life,Active,4402.02,Quebec,Monthly,Overdue
+1006,C0006,P10006,2026-99-99,Annuity,Active,4864.59,Quebec,Quarterly,PENDING 
+1672,C0672,P10672,2026-02-28,Life,Lapsed,4402.82,Quebec,Quarterly,Overdue
+1859,C0859,P10859,2026-02-02,Annuity,Lapsed,2331.09,  quebec  ,Monthly,Overdue
+1925,C0925,P10925,2026-03-12,Life,ACTIVE ,2960.14,Quebec,Annual,Paid
+1067,C0067,P10067,2026-02-11,Annuity,Lapsed,4136.54,Ontario,Quarterly,Overdue
+1068,C0068,P10068,2026-02-26,Annuity,ACTIVE ,974.72,British Columbia,Quarterly,Paid
+1817,C0817,P10817,2026-01-10,LIFE ,Pending,3512.26,Quebec,Quarterly,Overdue
+1212,C0212,P10212,2026-03-08,Annuity,Lapsed,4191.92,ALBERTA ,Annual,Pending
+1013,C0013,P10013,2026-03-01,Life,Pending,2148.63,Quebec,Annual,Paid
+1494,C0494,P10494,2026-03-27,Life,Pending,884.07,Alberta,Quarterly,Overdue
+1244,C0244,P10244,2026-02-08,Annuity,ACTIVE ,910.43,British Columbia,Monthly,  overdue  
+1300,C0300,P10300,2026-01-30T00:00:00.000000000,Life,Pending,4397.29,Ontario,Monthly,Overdue
+1411,C0411,P10411,2026-01-10T00:00:00.000000000,Life,Lapsed,4954.82,Ontario,Monthly,Overdue
+1757,C0757,P10757,2026-99-99,Life,Active,3053.93,Nova Scotia,Monthly,Overdue
+2075,C1075,P11075,2026-01-11,Life,Active,696.81,Alberta,Annual,Pending
+1696,C0696,P10696,2026-01-17,Annuity,Lapsed,3119.77,,Quarterly,Paid
+1078,C0078,P10078,2026-02-20T00:00:00.000000000,Annuity,Lapsed,1712.36,Nova Scotia,Monthly,  overdue  
+1724,C0724,P10724,2026-01-18,Life,Pending,4389.61,British Columbia,Quarterly,Overdue
+2016,C1016,P11016,2026-02-05T00:00:00.000000000,Life,LAPSED ,2871.69,Nova Scotia,Quarterly,Overdue
+1528,C0528,P10528,2026-03-01,Life,  active  ,3667.76,Ontario,Monthly,Paid
+1600,C0600,P10600,2026-02-28,Annuity,Active,-4230.12,Manitoba,Monthly,Paid
+2120,C1120,P11120,2026-02-27T00:00:00.000000000,Life,Lapsed,2157.39,Ontario,Annual,Pending
+1567,C0567,P10567,2026-03-10,Annuity,Active,2676.9,Ontario,Quarterly,Pending
+1731,C0731,P10731,2026-03-05,Annuity,Active,,Alberta,  monthly  ,  paid  
+1274,C0274,P10274,2026-02-01,Life,Lapsed,3002.02,Manitoba,  annual  ,  overdue  
+1967,C0967,P10967,2026-01-14,Annuity,Active,1029.42,Ontario,Annual,Pending
+1238,C0238,P10238,2026-03-12T00:00:00.000000000,Life,PENDING ,4805.6,BRITISH COLUMBIA ,Quarterly,Overdue
+1406,C0406,P10406,2026-01-14,Annuity,Active,1798.84,Quebec,ANNUAL ,Paid
+1003,C0003,P10003,2026-03-24,Annuity,Active,949.89,Alberta,Monthly,Paid
+1007,C0007,P10007,2026-01-30T00:00:00.000000000,Annuity,Lapsed,1455.53,Alberta,Monthly,Pending
+1312,C0312,P10312,2026-02-22T00:00:00.000000000,Annuity,Pending,3133.17,MANITOBA ,Quarterly,Paid
+2091,C1091,P11091,2026-01-22T00:00:00.000000000,Annuity,Pending,4931.01,Ontario,Monthly,Pending
+1452,C0452,P10452,2026-01-15,Life,Pending,4087.83,Nova Scotia,Monthly,PAID 
+1722,C0722,P10722,2026-02-04T00:00:00.000000000,Annuity,Lapsed,640.1,Alberta,ANNUAL ,Overdue
+1216,C0216,P10216,2026-01-02,Annuity,Active,675.33,,Monthly,  overdue  
+2086,C1086,P11086,2026-99-99,  annuity  ,Lapsed,1635.08,Alberta,MONTHLY ,Paid
+1028,C0028,P10028,2026-02-23,Annuity,Pending,INVALID_AMT,Manitoba,Quarterly,Paid
+1513,C0513,P10513,2026-01-08,Annuity,Lapsed,621.93,  alberta  ,Monthly,Pending
+1362,C0362,P10362,2026-03-22,Life,Active,1745.95,  british columbia  ,Annual,Overdue
+1823,C0823,P10823,2026-03-17,Annuity,Pending,2635.84,British Columbia,Quarterly,Overdue
+1781,C0781,P10781,2026-01-22,  annuity  ,  pending  ,1995.42,British Columbia,Quarterly,Pending
+1629,C0629,P10629,2026-03-09,Annuity,Pending,1482.14,Ontario,Annual,Overdue
+1454,C0454,P10454,2026-03-09T00:00:00.000000000,Life,Active,3750.14,,  annual  ,OVERDUE 
+1739,C0739,P10739,2026-01-02,Annuity,Lapsed,4089.02,Quebec,Quarterly,Paid
+1536,C0536,P10536,2026-03-27,Life,Lapsed,4008.91,Nova Scotia,QUARTERLY ,Overdue
+2050,C1050,P11050,2026-02-13,Annuity,Lapsed,2805.0,Ontario,Quarterly,Paid
+1399,C0399,P10399,2026-03-07T00:00:00.000000000,Annuity,Lapsed,3005.43,Manitoba,Monthly,  paid  
+1257,C0257,P10257,2026-03-06,Life,Lapsed,4461.62,Quebec,Quarterly,Paid
+1292,C0292,P10292,2026-01-27,Annuity,Lapsed,3641.73,,Monthly,Pending
+1026,C0026,P10026,2026-02-19,Annuity,Pending,3481.35,Alberta,Annual,
+1337,C0337,P10337,2026-01-29,Annuity,Lapsed,1161.83,Nova Scotia,Annual,Overdue
+1585,C0585,P10585,2026-03-22,Life,Pending,-3464.53,Ontario,Monthly,PENDING 
+1048,C0048,P10048,2026-03-14,Annuity,Pending,3304.84,Manitoba,MONTHLY ,Paid
+1319,C0319,P10319,2026-02-01,Life,  pending  ,711.03,Nova Scotia,Quarterly,OVERDUE 
+1107,C0107,P10107,2026-02-11,Annuity,Active,1660.74,MANITOBA ,Quarterly,Pending
+1799,C0799,P10799,2026-01-15T00:00:00.000000000,Life,  pending  ,1561.06,Manitoba,Monthly,Paid
+1056,C0056,P10056,2026-01-14T00:00:00.000000000,Life,Active,2722.08,British Columbia,Quarterly,PENDING 
+1523,C0523,P10523,2026-02-24,Annuity,  pending  ,4533.51,Alberta,Quarterly,Overdue
+1214,C0214,P10214,2026-02-13,  life  ,Active,1732.83,  quebec  ,Monthly,OVERDUE 
+1121,C0121,P10121,2026-01-18,Life,Pending,1223.64,Ontario,Quarterly,Pending
+1918,C0918,P10918,2026-03-30T00:00:00.000000000,Annuity,Pending,929.91,Manitoba,Annual,Overdue
+2068,C1068,P11068,2026-02-10,Life,Lapsed,4819.22,Ontario,Quarterly,Pending
+2118,C1118,P11118,2026-03-16,Annuity,Active,3903.19,Quebec,MONTHLY ,Pending
+1073,C0073,P10073,2026-01-01,Life,Lapsed,1525.71,Quebec,Annual,Pending
+1948,C0948,P10948,2026-01-02,Annuity,Lapsed,2133.25,  nova scotia  ,Annual,Pending
+1747,C0747,P10747,2026-03-27T00:00:00.000000000,  life  ,LAPSED ,3871.23,  manitoba  ,Monthly,Pending
+1716,C0716,P10716,2026-01-21T00:00:00.000000000,Life,Pending,4592.86,  quebec  ,Monthly,Pending
+1558,C0558,P10558,2026-02-15,Life,Pending,711.35,Alberta,  annual  ,Pending
+2082,C1082,P11082,2026-02-15,Life,Pending,557.22,Ontario,  monthly  ,
+2046,C1046,P11046,2026-03-27T00:00:00.000000000,Life,PENDING ,3365.01,  quebec  ,  monthly  ,Pending
+1553,C0553,P10553,2026-02-26,Annuity,Lapsed,1699.24,Manitoba,Annual,Paid
+1562,C0562,P10562,2026-01-11T00:00:00.000000000,Life,Lapsed,1799.12,Ontario,Annual,Paid
+1425,C0425,P10425,2026-01-14T00:00:00.000000000,ANNUITY ,  active  ,4097.92,Ontario,Quarterly,Paid
+2014,C1014,P11014,2026-02-09T00:00:00.000000000,Life,LAPSED ,4162.87,ONTARIO ,Annual,Paid
+1326,C0326,P10326,2026-02-16T00:00:00.000000000,Annuity,Active,,Quebec,MONTHLY ,Pending
+1924,C0924,P10924,2026-02-06T00:00:00.000000000,Life,Lapsed,3388.87,Nova Scotia,Quarterly,Overdue
+1317,C0317,P10317,2026-03-18T00:00:00.000000000,  life  ,Lapsed,1432.52,Nova Scotia,Annual,Overdue
+1804,C0804,P10804,2026-02-10,Life,PENDING ,1612.54,Alberta,Quarterly,Overdue
+1791,C0791,P10791,2026-02-19,Annuity,Active,4401.64,QUEBEC ,Quarterly,Pending
+1529,C0529,P10529,2026-01-01,Annuity,  pending  ,4178.5,Manitoba,Annual,Pending
+1837,C0837,P10837,2026-02-25,Life,Lapsed,2820.18,Nova Scotia,QUARTERLY ,  overdue  
+1715,C0715,P10715,2026-02-25,Annuity,Pending,2445.51,Alberta,Annual,Overdue
+1901,C0901,P10901,2026-03-15,  life  ,  lapsed  ,4099.01,Manitoba,Quarterly,Paid
+1061,C0061,P10061,2026-01-04,Life,  pending  ,4584.05,Nova Scotia,Quarterly,Paid
+1723,C0723,P10723,2026-01-25,Life,Active,INVALID_AMT,  alberta  ,Quarterly,Paid
+1093,C0093,P10093,2026-01-24,Life,PENDING ,2616.35,Quebec,Annual,Pending
+1858,C0858,P10858,2026-03-11T00:00:00.000000000,Annuity,Pending,1931.5,Quebec,Monthly,Overdue
+1619,C0619,P10619,2026-02-26,Annuity,ACTIVE ,3113.41,British Columbia,Annual,Pending
+1352,C0352,P10352,2026-01-05,Life,ACTIVE ,2052.87,British Columbia,  quarterly  ,Overdue
+1933,C0933,P10933,2026-03-01T00:00:00.000000000,Life,Lapsed,4184.18,British Columbia,Quarterly,Paid
+1281,C0281,P10281,2026-01-01,Life,Active,3324.01,British Columbia,Monthly,Paid
+1421,C0421,P10421,2026-03-17T00:00:00.000000000,Annuity,Pending,2206.53,Alberta,Monthly,Overdue
+2115,C1115,P11115,2026-01-12,Annuity,Lapsed,3855.8,  british columbia  ,Quarterly,Pending
+1360,C0360,P10360,2026-03-27,Life,Pending,867.92,Manitoba,Annual,Overdue
+1423,C0423,P10423,2026-01-22,Life,Pending,716.43,Quebec,Annual,Paid
+1679,C0679,P10679,2026-01-31T00:00:00.000000000,Life,Pending,INVALID_AMT,Nova Scotia,Monthly,Pending
+1527,C0527,P10527,2026-01-19,Annuity,Active,3123.69,British Columbia,Annual,OVERDUE 
+1478,C0478,P10478,2026-03-15,Annuity,Pending,4112.84,Ontario,Monthly,Overdue
+2095,C1095,P11095,2026-02-21T00:00:00.000000000,  annuity  ,  active  ,4180.03,Manitoba,  monthly  ,Paid
+1183,C0183,P10183,2026-01-23,Annuity,Lapsed,2427.42,Alberta,Quarterly,Pending
+2092,C1092,P11092,2026-01-22,  annuity  ,Active,2928.0,Ontario,Annual,OVERDUE 
+1433,C0433,P10433,2026-02-07,Life,Lapsed,2929.01,ONTARIO ,Annual,Paid
+1111,C0111,P10111,2026-01-12T00:00:00.000000000,Annuity,Active,3012.32,British Columbia,Monthly,Overdue
+1371,C0371,P10371,2026-01-18,  life  ,Active,,Quebec,Monthly,Paid
+1240,C0240,P10240,2026-01-16T00:00:00.000000000,Life,Pending,2518.0,Manitoba,Quarterly,Pending
+1709,C0709,P10709,2026-01-15,Annuity,ACTIVE ,4076.64,Quebec,Monthly,OVERDUE 
+1630,C0630,P10630,2026-99-99,Annuity,Pending,4038.55,Ontario,Monthly,Pending
+1594,C0594,P10594,2026-99-99,Annuity,Active,652.76,Manitoba,  quarterly  ,Pending
+1486,C0486,P10486,2026-01-25T00:00:00.000000000,Life,Active,2742.65,Nova Scotia,Quarterly,  pending  
+1701,C0701,P10701,2026-02-21,Life,Pending,3912.18,Manitoba,Quarterly,Paid
+1262,C0262,P10262,2026-99-99,Life,Pending,3672.88,  ontario  ,Annual,Overdue
+1480,C0480,P10480,2026-03-04T00:00:00.000000000,Annuity,ACTIVE ,2365.27,British Columbia,Quarterly,Pending
+1650,C0650,P10650,2026-03-30T00:00:00.000000000,Life,Active,3168.23,Nova Scotia,Monthly,Pending
+1340,C0340,P10340,2026-03-29,  annuity  ,LAPSED ,706.38,Ontario,Quarterly,  paid  
+1669,C0669,P10669,2026-03-18T00:00:00.000000000,Life,Lapsed,1701.63,Manitoba,MONTHLY ,Pending
+1552,C0552,P10552,2026-03-27,Annuity,Active,1115.99,Ontario,Annual,Paid
+1459,C0459,P10459,2026-03-15,Life,PENDING ,2041.36,Nova Scotia,MONTHLY ,Overdue
+1184,C0184,P10184,2026-01-12,Annuity,Active,2340.29,Ontario,Quarterly,Overdue
+1138,C0138,P10138,2026-02-04,Life,Lapsed,3958.49,British Columbia,  monthly  ,Pending
+2043,C1043,P11043,2026-02-27,Annuity,Pending,1638.76,Ontario,Monthly,Pending
+1707,C0707,P10707,2026-01-29,Life,LAPSED ,4749.37,Nova Scotia,Quarterly,Pending
+1582,C0582,P10582,2026-02-16T00:00:00.000000000,Annuity,  active  ,890.17,British Columbia,Annual,Paid
+1081,C0081,P10081,2026-02-21,Annuity,Lapsed,2136.33,Quebec,Quarterly,Overdue
+1769,C0769,P10769,2026-03-21,Annuity,Pending,2964.17,Ontario,Annual,Overdue
+1870,C0870,P10870,2026-03-17,Life,Pending,3244.24,Quebec,ANNUAL ,Pending
+1762,C0762,P10762,2026-01-06,Annuity,Pending,3176.49,British Columbia,Monthly,Pending
+1030,C0030,P10030,2026-01-18,Annuity,  active  ,3988.1,Quebec,Quarterly,Paid
+1542,C0542,P10542,2026-01-25T00:00:00.000000000,Annuity,Lapsed,1660.49,Nova Scotia,Monthly,Pending
+1166,C0166,P10166,2026-03-04,ANNUITY ,Lapsed,661.74,Quebec,Quarterly,OVERDUE 
+1249,C0249,P10249,2026-03-17T00:00:00.000000000,Annuity,LAPSED ,3596.14,British Columbia,Monthly,Pending
+1308,C0308,P10308,2026-01-01,Annuity,Pending,561.52,Nova Scotia,Annual,Pending
+1448,C0448,P10448,2026-03-15,Life,Active,2039.37,British Columbia,ANNUAL ,Overdue
+1347,C0347,P10347,2026-01-04T00:00:00.000000000,Annuity,Pending,2055.5,Alberta,Monthly,Pending
+1335,C0335,P10335,2026-01-30,Annuity,Lapsed,3299.39,Nova Scotia,Annual,Overdue
+1286,C0286,P10286,2026-01-24,Life,Pending,3290.6,Nova Scotia,Monthly,Overdue
+1950,C0950,P10950,2026-01-30,Life,Active,2001.06,British Columbia,Quarterly,Overdue
+1098,C0098,P10098,2026-02-28T00:00:00.000000000,Life,PENDING ,1491.08,British Columbia,Annual,Paid
+1468,C0468,P10468,2026-02-20,  life  ,Pending,3814.0,ONTARIO ,  annual  ,Pending
+2037,C1037,P11037,2026-02-11,Life,Pending,4032.57,Manitoba,Quarterly,OVERDUE 
+1913,C0913,P10913,2026-02-11,Annuity,Active,4550.1,Quebec,Quarterly,Pending
+1756,C0756,P10756,2026-01-22,Annuity,Lapsed,1949.43,  ontario  ,MONTHLY ,PAID 
+1945,C0945,P10945,2026-02-13,Annuity,Lapsed,-1959.5,Quebec,Monthly,Overdue
+1614,C0614,P10614,2026-01-13,Life,Lapsed,2880.22,  ontario  ,Quarterly,Pending
+1802,C0802,P10802,2026-01-14,Life,Active,4871.28,Nova Scotia,Annual,Paid
+1758,C0758,P10758,2026-02-15,Life,Active,3619.37,Quebec,Annual,Overdue
+1689,C0689,P10689,2026-03-24T00:00:00.000000000,Annuity,Lapsed,3924.63,Alberta,Quarterly,Pending
+1066,C0066,P10066,2026-03-27T00:00:00.000000000,Life,Lapsed,4462.11,Alberta,Quarterly,Paid
+1794,C0794,P10794,2026-02-05T00:00:00.000000000,Life,Pending,2397.74,Ontario,Quarterly,PENDING 
+1744,C0744,P10744,2026-02-07T00:00:00.000000000,Life,Lapsed,1812.48,  british columbia  ,  quarterly  ,Pending
+1568,C0568,P10568,2026-02-05,  annuity  ,Lapsed,2929.29,Quebec,Quarterly,Overdue
+2084,C1084,P11084,2026-02-01,Annuity,Lapsed,1926.15,Nova Scotia,Monthly,  pending  
+2099,C1099,P11099,2026-03-02T00:00:00.000000000,ANNUITY ,Lapsed,3845.41,Quebec,Monthly,Paid
+1303,C0303,P10303,2026-01-18,Annuity,Pending,4942.74,  manitoba  ,Monthly,Overdue
+1255,C0255,P10255,2026-02-06,Annuity,Pending,1549.53,Nova Scotia,  annual  ,Pending
+1959,C0959,P10959,2026-99-99,Annuity,Active,2221.37,Ontario,Monthly,Pending
+2024,C1024,P11024,2026-03-20,Life,Pending,3119.67,Quebec,Annual,Paid
+1313,C0313,P10313,2026-02-22,Life,Lapsed,4751.45,Quebec,Quarterly,Pending
+1530,C0530,P10530,2026-01-20,Annuity,Lapsed,2011.4,Quebec,  quarterly  ,  pending  
+1222,C0222,P10222,2026-03-16,Annuity,Lapsed,4448.62,Ontario,Monthly,Overdue
+1389,C0389,P10389,2026-01-04,Annuity,Active,4328.68,Quebec,Annual,
+1236,C0236,P10236,2026-99-99,Annuity,PENDING ,4813.44,Ontario,  monthly  ,Paid
+1810,C0810,P10810,2026-03-07,Annuity,Lapsed,4360.94,British Columbia,Annual,Overdue
+1483,C0483,P10483,2026-02-03T00:00:00.000000000,Life,Active,-4633.05,Nova Scotia,Quarterly,Overdue
+1713,C0713,P10713,2026-03-16,Annuity,Lapsed,1729.67,Nova Scotia,Quarterly,Paid
+1306,C0306,P10306,2026-03-27,Life,  active  ,4231.24,Quebec,Annual,Overdue
+2111,C1111,P11111,2026-01-27,Annuity,Lapsed,3595.48,Nova Scotia,Monthly,Pending
+2090,C1090,P11090,2026-03-16,Life,Lapsed,1940.27,Quebec,Annual,Paid
+1772,C0772,P10772,2026-03-01,LIFE ,ACTIVE ,3792.15,Ontario,Monthly,Paid
+1917,C0917,P10917,2026-03-01,Life,Lapsed,3521.41,British Columbia,Monthly,Paid
+2139,C1139,P11139,2026-01-31,Annuity,Lapsed,4213.09,Ontario,Monthly,Pending
+1250,C0250,P10250,2026-02-27T00:00:00.000000000,Annuity,Active,3281.98,Nova Scotia,Annual,Pending
+1760,C0760,P10760,2026-02-13T00:00:00.000000000,Life,Active,970.56,Ontario,Annual,Paid
+1595,C0595,P10595,2026-01-07,Life,Pending,1838.07,Quebec,Quarterly,Pending
+1072,C0072,P10072,2026-03-30T00:00:00.000000000,Annuity,Lapsed,1931.02,Manitoba,  quarterly  ,Paid
+1095,C0095,P10095,2026-01-16T00:00:00.000000000,Annuity,Pending,4258.86,Manitoba,Annual,  pending  
+1546,C0546,P10546,2026-03-28,Annuity,Lapsed,3574.33,Quebec,Monthly,Overdue
+1034,C0034,P10034,2026-03-28,Life,Active,2843.75,  british columbia  ,Monthly,Paid
+1862,C0862,P10862,2026-03-16,Life,Pending,4453.32,Nova Scotia,MONTHLY ,Pending
+1579,C0579,P10579,2026-02-13,Annuity,  active  ,4133.44,Alberta,Annual,Overdue
+1449,C0449,P10449,2026-02-07,Annuity,Pending,2914.17,Alberta,Monthly,Overdue
+1446,C0446,P10446,2026-03-09T00:00:00.000000000,Annuity,Lapsed,3064.5,Ontario,Annual,Overdue
+1260,C0260,P10260,2026-02-05,Annuity,Active,INVALID_AMT,British Columbia,Quarterly,Paid
+1205,C0205,P10205,2026-01-04T00:00:00.000000000,Annuity,Pending,3271.33,Ontario,Quarterly,  overdue  
+1573,C0573,P10573,2026-01-17T00:00:00.000000000,  life  ,Active,,Quebec,Quarterly,
+1824,C0824,P10824,2026-02-13,Annuity,PENDING ,2508.66,Alberta,Monthly,  overdue  
+1586,C0586,P10586,2026-03-21,Life,Active,4321.38,Quebec,Annual,Paid
+1366,C0366,P10366,2026-03-31,Life,Pending,3919.8,  manitoba  ,Annual,Overdue
+1812,C0812,P10812,2026-02-09T00:00:00.000000000,Annuity,ACTIVE ,3194.21,Ontario,Quarterly,Paid
+1078,C0078,P10078,2026-02-20T00:00:00.000000000,Annuity,Lapsed,-1712.36,Nova Scotia,Monthly,Overdue
+1085,C0085,P10085,2026-01-02T00:00:00.000000000,Life,Pending,2762.06,British Columbia,Annual,Paid
+1539,C0539,P10539,2026-03-22,Life,Lapsed,2681.5,Manitoba,Quarterly,Pending
+1083,C0083,P10083,2026-02-08,Annuity,Lapsed,2737.62,Manitoba,Monthly,PENDING 
+1458,C0458,P10458,2026-01-20T00:00:00.000000000,Annuity,Pending,1317.19,QUEBEC ,Monthly,Paid
+2138,C1138,P11138,2026-03-17,ANNUITY ,Pending,-4032.04,Quebec,Annual,Overdue
+1615,C0615,P10615,2026-02-01,Life,Lapsed,4696.65,Manitoba,Monthly,Paid
+1511,C0511,P10511,2026-03-28,Life,Pending,4905.19,Alberta,Quarterly,Pending
+2076,C1076,P11076,2026-01-17,Annuity,Active,4676.38,British Columbia,QUARTERLY ,  pending  
+1737,C0737,P10737,2026-02-07,Life,Active,1514.93,Ontario,Quarterly,Pending
+1437,C0437,P10437,2026-02-20,Annuity,Pending,2942.82,Quebec,Annual,Overdue
+1555,C0555,P10555,2026-02-22,Annuity,Active,1289.17,British Columbia,Monthly,
+2080,C1080,P11080,2026-99-99,Annuity,Active,4677.43,Ontario,Annual,Pending
+2062,C1062,P11062,2026-02-07,Annuity,Lapsed,871.78,Quebec,Annual,Pending
+1351,C0351,P10351,2026-02-20T00:00:00.000000000,Annuity,  active  ,683.91,Alberta,Monthly,Pending
+1197,C0197,P10197,2026-03-17,Annuity,Pending,INVALID_AMT,Manitoba,Annual,Paid
+1465,C0465,P10465,2026-03-09T00:00:00.000000000,Life,Pending,4055.38,Ontario,QUARTERLY ,Pending
+1589,C0589,P10589,2026-01-26,Life,ACTIVE ,732.18,BRITISH COLUMBIA ,Annual,Paid
+1006,C0006,P10006,2026-02-22,Annuity,Active,4864.59,Quebec,Quarterly,Pending
+1311,C0311,P10311,2026-01-05,Life,Lapsed,4984.87,Alberta,Annual,  paid  
+1662,C0662,P10662,2026-01-18T00:00:00.000000000,Annuity,ACTIVE ,864.71,Nova Scotia,Annual,Pending
+1405,C0405,P10405,2026-02-16,  life  ,Lapsed,3682.54,Quebec,  annual  ,Pending
+1510,C0510,P10510,2026-02-03T00:00:00.000000000,Life,Pending,2339.3,Quebec,Quarterly,  overdue  
+2044,C1044,P11044,2026-01-21,Life,Active,4213.09,Quebec,  annual  ,Paid
+2058,C1058,P11058,2026-03-24,ANNUITY ,  active  ,3476.17,British Columbia,Monthly,Paid
+1105,C0105,P10105,2026-02-26,Life,Active,1010.63,  ontario  ,Annual,Paid
+1537,C0537,P10537,2026-03-22T00:00:00.000000000,Annuity,Pending,4408.11,Nova Scotia,Annual,Overdue
+1606,C0606,P10606,2026-99-99,Annuity,  active  ,794.1,QUEBEC ,Quarterly,Paid
+1063,C0063,P10063,2026-01-15,Life,Active,3899.98,  quebec  ,  quarterly  ,Overdue
+1282,C0282,P10282,2026-01-03T00:00:00.000000000,Annuity,Pending,4555.21,ONTARIO ,Annual,Overdue
+2056,C1056,P11056,2026-02-27T00:00:00.000000000,Life,Lapsed,2578.76,NOVA SCOTIA ,Quarterly,Paid
+1239,C0239,P10239,2026-02-21,ANNUITY ,Pending,3080.47,Quebec,Annual,Pending
+1224,C0224,P10224,2026-02-05,Life,Lapsed,1298.48,Quebec,Monthly,Pending
+1146,C0146,P10146,2026-02-01T00:00:00.000000000,LIFE ,Lapsed,4330.12,Quebec,Annual,Pending
+2119,C1119,P11119,2026-03-11,Life,Pending,4444.93,Ontario,Quarterly,Paid
+1374,C0374,P10374,2026-02-26,Life,Pending,4283.19,Quebec,Monthly,Overdue
+1119,C0119,P10119,2026-03-25T00:00:00.000000000,Life,Active,3113.09,Nova Scotia,Quarterly,  paid  
+1803,C0803,P10803,2026-02-06,  annuity  ,Pending,4344.73,Ontario,Monthly,Overdue
+1251,C0251,P10251,2026-01-07T00:00:00.000000000,Life,Pending,2417.41,Quebec,Monthly,Overdue
+1039,C0039,P10039,2026-02-10T00:00:00.000000000,Life,LAPSED ,1833.23,Nova Scotia,Quarterly,Pending
+1010,C0010,P10010,2026-01-22,Life,Pending,531.8,British Columbia,Annual,Paid
+1450,C0450,P10450,2026-02-16T00:00:00.000000000,Annuity,Lapsed,4309.04,British Columbia,Annual,  paid  
+1874,C0874,P10874,2026-02-04,Annuity,Active,1522.71,Alberta,Quarterly,PENDING 
+1390,C0390,P10390,2026-03-03,Annuity,ACTIVE ,1782.93,Nova Scotia,Monthly,Paid
+1966,C0966,P10966,2026-01-16T00:00:00.000000000,Annuity,Active,2780.77,Alberta,Monthly,Paid
+1461,C0461,P10461,2026-02-16,Annuity,Pending,1795.68,Alberta,Monthly,Paid
+2147,C1147,P11147,2026-03-11T00:00:00.000000000,Annuity,Pending,-4960.07,  nova scotia  ,Quarterly,Paid
+1145,C0145,P10145,2026-03-04,Annuity,Active,1875.64,British Columbia,Annual,Paid
+1502,C0502,P10502,2026-01-16,  life  ,Pending,3041.79,QUEBEC ,  quarterly  ,Pending
+2108,C1108,P11108,2026-03-05T00:00:00.000000000,Life,Pending,4100.32,Ontario,  monthly  ,Overdue
+1540,C0540,P10540,2026-03-22,Annuity,Pending,1709.05,Nova Scotia,Quarterly,OVERDUE 
+1178,C0178,P10178,2026-01-13,Life,Lapsed,4862.92,Ontario,Annual,Pending
+1953,C0953,P10953,2026-01-31,Life,Pending,3896.77,Alberta,Monthly,Pending
+2051,C1051,P11051,2026-01-08,Life,Pending,687.53,Quebec,Monthly,Paid
+1584,C0584,P10584,2026-01-08T00:00:00.000000000,Life,Active,3375.27,Manitoba,  monthly  ,PENDING 
+1351,C0351,P10351,2026-02-20T00:00:00.000000000,Annuity,  active  ,683.91,  alberta  ,Monthly,Pending
+1008,C0008,P10008,2026-03-05T00:00:00.000000000,Life,Pending,4964.95,Manitoba,Monthly,Overdue
+1574,C0574,P10574,2026-03-02,Annuity,Lapsed,3597.81,Nova Scotia,Quarterly,Overdue
+1843,C0843,P10843,2026-01-01,  annuity  ,ACTIVE ,3788.73,Quebec,Annual,Paid
+1358,C0358,P10358,2026-02-14,Life,Lapsed,1947.12,Alberta,QUARTERLY ,  paid  
+1330,C0330,P10330,2026-02-07,Life,  pending  ,3236.4,Manitoba,  annual  ,Paid
+1705,C0705,P10705,2026-03-16,Annuity,Lapsed,3574.83,Manitoba,  monthly  ,Paid
+1830,C0830,P10830,2026-02-04T00:00:00.000000000,Annuity,Pending,2534.9,Quebec,Quarterly,Pending
+1259,C0259,P10259,2026-03-30,Annuity,Lapsed,3163.5,Manitoba,Annual,Overdue
+1891,C0891,P10891,2026-03-09,Life,Pending,4704.96,Alberta,Annual,PAID 
+1834,C0834,P10834,2026-03-29,Life,PENDING ,3586.85,Manitoba,Annual,OVERDUE 
+1840,C0840,P10840,2026-02-14,Annuity,Pending,1145.94,British Columbia,QUARTERLY ,Pending
+1905,C0905,P10905,2026-02-05,  life  ,Lapsed,2410.37,Manitoba,  quarterly  ,Overdue
+1526,C0526,P10526,2026-01-19T00:00:00.000000000,Annuity,Lapsed,1052.5,  manitoba  ,QUARTERLY ,Paid
+1814,C0814,P10814,2026-02-16T00:00:00.000000000,Annuity,Lapsed,1556.03,Alberta,Monthly,Overdue
+1732,C0732,P10732,2026-01-24,Annuity,Lapsed,4643.82,Manitoba,Quarterly,Overdue
+2032,C1032,P11032,2026-01-21,  life  ,Active,4299.61,Nova Scotia,Quarterly,Pending
+2141,C1141,P11141,2026-02-24,Life,Lapsed,3809.78,British Columbia,Monthly,Overdue
+1441,C0441,P10441,2026-01-15,Life,Lapsed,-4453.83,Ontario,Annual,Pending
+1532,C0532,P10532,2026-01-12,Annuity,PENDING ,4237.95,British Columbia,Monthly,Paid
+1960,C0960,P10960,2026-01-23T00:00:00.000000000,Life,PENDING ,2296.92,Manitoba,Quarterly,Paid
+1229,C0229,P10229,2026-02-06,Annuity,Lapsed,INVALID_AMT,  nova scotia  ,Monthly,Pending
+2041,C1041,P11041,2026-01-02,Annuity,Lapsed,2469.21,Nova Scotia,Quarterly,Pending
+1213,C0213,P10213,2026-02-09,LIFE ,Active,4574.08,Nova Scotia,Quarterly,Paid
+1080,C0080,P10080,2026-02-01,Life,Lapsed,2834.56,Nova Scotia,Annual,Pending
+1149,C0149,P10149,2026-02-23,Annuity,Lapsed,3632.13,Alberta,Annual,Paid
+1592,C0592,P10592,2026-99-99,  annuity  ,Pending,1312.59,Alberta,Annual,Paid
+1708,C0708,P10708,2026-01-13T00:00:00.000000000,Annuity,Pending,4343.94,MANITOBA ,Monthly,Pending
+1590,C0590,P10590,2026-01-26,Annuity,Active,677.42,Quebec,Quarterly,PAID 
+1134,C0134,P10134,2026-01-21T00:00:00.000000000,  life  ,Active,2761.87,British Columbia,Quarterly,Paid
+1782,C0782,P10782,2026-02-25T00:00:00.000000000,Annuity,ACTIVE ,4886.57,British Columbia,Annual,Overdue
+1409,C0409,P10409,2026-02-02,Life,ACTIVE ,2161.54,Quebec,Monthly,Overdue
+1970,C0970,P10970,2026-01-02,Annuity,Lapsed,4716.31,Ontario,Annual,Pending
+1508,C0508,P10508,2026-01-03T00:00:00.000000000,ANNUITY ,Active,2179.89,Manitoba,Annual,  paid  
+1877,C0877,P10877,2026-03-15,Life,Lapsed,3917.05,Manitoba,Monthly,Overdue
+1505,C0505,P10505,2026-02-07,Life,Pending,3944.1,Nova Scotia,Quarterly,Paid
+1719,C0719,P10719,2026-01-03T00:00:00.000000000,Life,Lapsed,1903.78,Alberta,Annual,Pending
+1348,C0348,P10348,2026-03-08,Life,Active,4434.43,Manitoba,Annual,Paid
+1387,C0387,P10387,2026-02-02T00:00:00.000000000,Annuity,Active,533.9,Ontario,Monthly,Pending
+1001,C0001,P10001,2026-02-21,Annuity,Pending,4778.21,MANITOBA ,Monthly,Paid
+1361,C0361,P10361,2026-03-04,Annuity,ACTIVE ,2197.79,Nova Scotia,Quarterly,Pending
+2134,C1134,P11134,2026-03-23,Life,  active  ,3209.66,  alberta  ,Annual,Pending
+1476,C0476,P10476,2026-01-15,Life,Active,2295.51,ALBERTA ,  monthly  ,Pending
+1778,C0778,P10778,2026-02-22,Annuity,Lapsed,3464.18,Nova Scotia,Quarterly,Overdue
+1754,C0754,P10754,2026-03-18,Life,Pending,INVALID_AMT,Ontario,Quarterly,Overdue
+1173,C0173,P10173,2026-01-08T00:00:00.000000000,Life,Active,3964.97,Nova Scotia,Monthly,  pending  
+1451,C0451,P10451,2026-03-29T00:00:00.000000000,Annuity,ACTIVE ,3217.81,British Columbia,Annual,Pending
+1126,C0126,P10126,2026-01-21,Annuity,Pending,1304.7,British Columbia,Monthly,Paid
+1931,C0931,P10931,2026-02-08T00:00:00.000000000,Life,Lapsed,3760.33,ONTARIO ,Monthly,Paid
+1531,C0531,P10531,2026-01-02,Annuity,Active,2133.77,Nova Scotia,Monthly,PENDING 
+1091,C0091,P10091,2026-02-24,  life  ,Active,3927.29,Ontario,Monthly,Paid
+1368,C0368,P10368,2026-01-26,Life,Pending,665.07,Manitoba,Annual,Overdue
+1182,C0182,P10182,2026-03-31,Annuity,Lapsed,4831.92,  british columbia  ,Annual,Pending
+2027,C1027,P11027,2026-01-13T00:00:00.000000000,Life,Lapsed,554.54,Nova Scotia,Quarterly,Pending
+2000,C1000,P11000,2026-01-20,Annuity,Active,2477.8,Alberta,  quarterly  ,Pending
+1252,C0252,P10252,2026-02-09,LIFE ,Active,827.43,Nova Scotia,Annual,Paid
+1070,C0070,P10070,2026-02-13T00:00:00.000000000,ANNUITY ,Lapsed,2374.29,Alberta,QUARTERLY ,Paid
+1132,C0132,P10132,2026-99-99,Annuity,Lapsed,4514.21,Alberta,Annual,Overdue
+1301,C0301,P10301,2026-01-05,  annuity  ,Pending,618.65,British Columbia,Quarterly,Pending
+2133,C1133,P11133,2026-01-24,Annuity,Pending,3544.11,Ontario,Quarterly,Pending
+1327,C0327,P10327,2026-03-26,Annuity,Lapsed,3377.13,MANITOBA ,Annual,Pending
+2020,C1020,P11020,2026-03-27,Life,Pending,4223.92,British Columbia,Monthly,Overdue
+1500,C0500,P10500,2026-01-30T00:00:00.000000000,Annuity,Active,1358.09,QUEBEC ,Monthly,Pending
+1666,C0666,P10666,2026-02-14,Life,Lapsed,,Manitoba,Quarterly,Overdue
+1919,C0919,P10919,2026-02-05,Annuity,Active,1173.67,Nova Scotia,MONTHLY ,
+1496,C0496,P10496,2026-03-12,Annuity,Pending,INVALID_AMT,Quebec,Annual,Overdue
+1339,C0339,P10339,2026-01-17,Annuity,Lapsed,1662.1,British Columbia,Monthly,Pending
+1964,C0964,P10964,2026-01-22,Annuity,Pending,901.06,Manitoba,Quarterly,
+1165,C0165,P10165,2026-03-07T00:00:00.000000000,Life,Active,2473.13,,Monthly,Pending
+1029,C0029,P10029,2026-02-23T00:00:00.000000000,Life,Lapsed,640.91,British Columbia,Monthly,Paid
+1517,C0517,P10517,2026-03-08T00:00:00.000000000,LIFE ,Lapsed,4493.57,Ontario,Monthly,Pending
+1194,C0194,P10194,2026-03-19,Annuity,Pending,913.1,Manitoba,Monthly,Overdue
+2104,C1104,P11104,2026-01-08,LIFE ,Lapsed,2577.01,British Columbia,Monthly,Paid
+1170,C0170,P10170,2026-02-18T00:00:00.000000000,Annuity,Lapsed,668.07,Quebec,Quarterly,Overdue
+2059,C1059,P11059,2026-01-28,Annuity,Active,2096.79,Alberta,Annual,Overdue
+1174,C0174,P10174,2026-01-05,LIFE ,Lapsed,2557.69,Quebec,Annual,Paid
+1519,C0519,P10519,2026-03-29,Life,Lapsed,3750.2,Quebec,Quarterly,Pending
+1969,C0969,P10969,2026-03-07,Annuity,Active,2214.09,Quebec,Quarterly,Paid
+1702,C0702,P10702,2026-01-07,Annuity,Active,795.32,,QUARTERLY ,Pending
+1492,C0492,P10492,2026-03-22,Life,Pending,4824.82,British Columbia,Annual,Pending
+1074,C0074,P10074,2026-03-03,Life,Active,502.34,Alberta,Quarterly,Paid
+1981,C0981,P10981,2026-03-19,  life  ,Lapsed,4126.66,Nova Scotia,Monthly,Overdue
+1588,C0588,P10588,2026-01-12,Annuity,  lapsed  ,1495.44,Alberta,Annual,Pending
+1235,C0235,P10235,2026-02-28,Life,Pending,949.93,Alberta,Quarterly,Overdue
+1215,C0215,P10215,2026-01-12,  annuity  ,Active,953.5,Manitoba,Monthly,Paid
+1947,C0947,P10947,2026-01-02,Annuity,  pending  ,4973.63,Quebec,Monthly,Overdue
+1133,C0133,P10133,2026-01-27,Annuity,Active,2454.77,British Columbia,Annual,Pending
+2005,C1005,P11005,2026-01-05,Annuity,Active,4013.43,Quebec,Monthly,Paid
+1733,C0733,P10733,2026-01-03T00:00:00.000000000,Annuity,Lapsed,1334.56,Manitoba,Monthly,Paid
+1941,C0941,P10941,2026-03-01,Life,Lapsed,804.26,Nova Scotia,ANNUAL ,  paid  
+1186,C0186,P10186,2026-02-03,Annuity,Lapsed,1579.04,,Monthly,  paid  
+1042,C0042,P10042,2026-01-01,Annuity,Lapsed,1394.22,BRITISH COLUMBIA ,QUARTERLY ,Pending
+1109,C0109,P10109,2026-03-01T00:00:00.000000000,Annuity,Lapsed,1673.73,Alberta,ANNUAL ,OVERDUE 
+1849,C0849,P10849,2026-03-23T00:00:00.000000000,Life,Lapsed,3280.31,Ontario,Annual,Paid
+1569,C0569,P10569,2026-03-24,Annuity,Active,3177.85,British Columbia,Monthly,Pending
+1651,C0651,P10651,2026-01-14,Life,Lapsed,4370.57,Quebec,Quarterly,Paid
+2001,C1001,P11001,2026-03-01,ANNUITY ,Active,4331.52,Quebec,Quarterly,Pending
+1095,C0095,P10095,2026-01-16T00:00:00.000000000,  annuity  ,Pending,4258.86,Manitoba,Annual,Pending
+1484,C0484,P10484,2026-02-12,Life,Lapsed,647.81,Manitoba,Quarterly,Overdue
+1469,C0469,P10469,2026-02-09,Life,Active,4281.98,Quebec,Quarterly,Pending
+1025,C0025,P10025,2026-03-19,Life,Active,2259.77,Quebec,Annual,Pending
+1661,C0661,P10661,2026-01-05,Life,ACTIVE ,719.53,Quebec,Monthly,Overdue
+1680,C0680,P10680,2026-01-10,Life,Lapsed,4189.76,British Columbia,Quarterly,Overdue
+1753,C0753,P10753,2026-01-02,Annuity,Pending,2904.09,British Columbia,Monthly,Pending
+1994,C0994,P10994,2026-01-13,Annuity,ACTIVE ,-2153.9,Alberta,Annual,Overdue
+1367,C0367,P10367,2026-03-19,Life,Lapsed,2581.41,Alberta,Quarterly,  pending  
+1840,C0840,P10840,2026-02-14,  annuity  ,Pending,1145.94,British Columbia,Quarterly,Pending
+2053,C1053,P11053,2026-02-20,Life,Lapsed,820.66,Quebec,Monthly,Paid
+1384,C0384,P10384,2026-03-05,Annuity,Active,-3068.5,Ontario,ANNUAL ,Overdue
+1455,C0455,P10455,2026-01-02,Annuity,Active,554.91,Alberta,Annual,PAID 
+1265,C0265,P10265,2026-02-14T00:00:00.000000000,  annuity  ,Lapsed,551.09,Nova Scotia,Quarterly,
+1761,C0761,P10761,2026-03-16,  life  ,Pending,1058.99,Nova Scotia,Annual,Paid
+1980,C0980,P10980,2026-03-29,Annuity,Lapsed,2896.17,Ontario,ANNUAL ,  pending  
+1445,C0445,P10445,2026-01-27,Life,Lapsed,3847.76,British Columbia,Monthly,Pending
+1396,C0396,P10396,2026-03-16T00:00:00.000000000,Annuity,Active,-4394.78,Quebec,Quarterly,Pending
+1742,C0742,P10742,2026-99-99,Life,Active,3562.05,Ontario,Annual,Paid
+1177,C0177,P10177,2026-02-09,Life,Pending,3767.41,British Columbia,MONTHLY ,Pending
+1019,C0019,P10019,2026-02-08T00:00:00.000000000,Life,Pending,559.69,Ontario,Quarterly,Overdue
+1949,C0949,P10949,2026-02-04T00:00:00.000000000,Annuity,Pending,3787.93,BRITISH COLUMBIA ,Monthly,Paid
+1815,C0815,P10815,2026-01-10,Life,Lapsed,830.74,British Columbia,Annual,Overdue
+1596,C0596,P10596,2026-02-17,Annuity,Active,,British Columbia,Monthly,Overdue
+1062,C0062,P10062,2026-01-23T00:00:00.000000000,LIFE ,Lapsed,3219.88,  alberta  ,Monthly,Pending
+1273,C0273,P10273,2026-02-27,Annuity,Pending,554.7,Quebec,Quarterly,Paid
+2126,C1126,P11126,2026-02-15,Annuity,Pending,2099.72,British Columbia,Quarterly,Paid
+1279,C0279,P10279,2026-02-16,Annuity,PENDING ,3332.29,Quebec,QUARTERLY ,Overdue
+1842,C0842,P10842,2026-01-08,Life,Active,-4864.6,  british columbia  ,Monthly,  paid  
+1369,C0369,P10369,2026-02-25,Life,Lapsed,INVALID_AMT,  quebec  ,Annual,Overdue
+1887,C0887,P10887,2026-01-23,Annuity,Pending,2438.88,,  monthly  ,
+2015,C1015,P11015,2026-02-21T00:00:00.000000000,Life,Pending,1281.89,Quebec,Monthly,Paid
+1860,C0860,P10860,2026-02-17,Life,Lapsed,3885.92,Alberta,Monthly,  pending  
+1721,C0721,P10721,2026-01-15T00:00:00.000000000,Life,Pending,3856.27,ALBERTA ,Annual,Overdue
+1826,C0826,P10826,2026-03-02T00:00:00.000000000,Life,Pending,653.84,British Columbia,Quarterly,Pending
+1548,C0548,P10548,2026-03-26T00:00:00.000000000,Life,Active,4167.74,Alberta,  annual  ,
+1880,C0880,P10880,2026-03-07,Annuity,PENDING ,2656.32,Manitoba,Annual,Overdue
+1900,C0900,P10900,2026-03-16,LIFE ,Lapsed,1054.5,  british columbia  ,Quarterly,Overdue
+1457,C0457,P10457,2026-02-12,Life,Lapsed,3195.63,Ontario,Monthly,Overdue
+1394,C0394,P10394,2026-01-24,ANNUITY ,Pending,1004.18,Nova Scotia,Quarterly,Paid
+1676,C0676,P10676,2026-01-27T00:00:00.000000000,Annuity,Active,3887.22,British Columbia,Monthly,  pending  
+1912,C0912,P10912,2026-01-10,Life,ACTIVE ,1286.48,Nova Scotia,Annual,Pending
+1965,C0965,P10965,2026-02-01,Annuity,Active,1074.71,ONTARIO ,Annual,Paid
+1376,C0376,P10376,2026-02-13,Life,ACTIVE ,1549.47,Nova Scotia,Annual,Pending
+1413,C0413,P10413,2026-03-25,Annuity,Pending,1645.88,Alberta,Monthly,Pending
+1075,C0075,P10075,2026-03-18,Life,Active,4373.29,Alberta,Annual,Pending
+2122,C1122,P11122,2026-01-24T00:00:00.000000000,Life,Active,1477.44,Manitoba,Monthly,Pending
+1863,C0863,P10863,2026-01-04,Life,Active,3504.17,Manitoba,Annual,Overdue
+1501,C0501,P10501,2026-02-14,Life,Active,2199.77,Ontario,Quarterly,  pending  
+1942,C0942,P10942,2026-01-05,Annuity,Active,-814.69,Manitoba,Quarterly,Paid
+1617,C0617,P10617,2026-01-29,Annuity,Active,3952.35,  alberta  ,Monthly,  overdue  
+1115,C0115,P10115,2026-01-03T00:00:00.000000000,Life,Pending,4353.46,Quebec,  quarterly  ,PENDING 
+1418,C0418,P10418,2026-03-01,Life,Pending,4842.62,British Columbia,Annual,Paid
+1602,C0602,P10602,2026-01-24T00:00:00.000000000,Annuity,Active,1535.04,Nova Scotia,Quarterly,Overdue
+1605,C0605,P10605,2026-02-09,Annuity,Pending,2484.64,ONTARIO ,QUARTERLY ,Paid
+1090,C0090,P10090,2026-02-01,ANNUITY ,Active,3167.14,Nova Scotia,Monthly,Paid
+2149,C1149,P11149,2026-03-31,Annuity,Active,3144.96,  ontario  ,Monthly,Pending
+1499,C0499,P10499,2026-03-24,Annuity,Lapsed,2072.24,Alberta,Quarterly,Paid
+1876,C0876,P10876,2026-03-13T00:00:00.000000000,  annuity  ,Active,3506.96,ONTARIO ,Quarterly,Overdue
+1927,C0927,P10927,2026-03-18,Life,  lapsed  ,3175.14,Nova Scotia,Annual,Paid
+1999,C0999,P10999,2026-01-13,LIFE ,Lapsed,4714.02,  quebec  ,Annual,Paid
+1012,C0012,P10012,2026-02-28,Life,Pending,2299.37,Manitoba,Monthly,Pending
+1397,C0397,P10397,2026-01-06,Annuity,  active  ,4887.8,Ontario,Annual,Pending
+1755,C0755,P10755,2026-03-18T00:00:00.000000000,Annuity,  lapsed  ,853.6,British Columbia,Annual,Overdue
+1556,C0556,P10556,2026-02-14,LIFE ,Lapsed,4271.48,Manitoba,Monthly,Paid
+1043,C0043,P10043,2026-03-29T00:00:00.000000000,Annuity,  lapsed  ,563.36,Ontario,  monthly  ,PAID 
+1168,C0168,P10168,2026-03-03,Life,Active,-1789.44,Ontario,Annual,Overdue
+1417,C0417,P10417,2026-02-18,Annuity,Pending,4328.27,Manitoba,  monthly  ,Paid
+1577,C0577,P10577,2026-02-13,Annuity,Active,4854.65,Quebec,  annual  ,Paid
+1268,C0268,P10268,2026-02-08,Life,Pending,3857.2,Quebec,Monthly,Pending
+1808,C0808,P10808,2026-03-11T00:00:00.000000000,Life,Active,3434.55,Ontario,ANNUAL ,Paid
+1427,C0427,P10427,2026-01-05T00:00:00.000000000,Annuity,Pending,1560.61,ONTARIO ,Monthly,Pending
+1691,C0691,P10691,2026-03-04T00:00:00.000000000,ANNUITY ,Pending,-2264.68,British Columbia,Monthly,Overdue
+1545,C0545,P10545,2026-01-29,Annuity,Active,1272.56,Nova Scotia,Annual,  pending  
+2123,C1123,P11123,2026-01-26,Annuity,Active,,Quebec,Annual,Pending
+1675,C0675,P10675,2026-02-11,Life,Active,976.25,  ontario  ,Annual,Paid
+1690,C0690,P10690,2026-99-99,Life,Lapsed,2445.08,Quebec,  annual  ,Overdue
+2055,C1055,P11055,2026-01-20,Life,Pending,3818.79,Alberta,Annual,Pending
+1729,C0729,P10729,2026-02-15,  life  ,Lapsed,2886.59,Manitoba,QUARTERLY ,Paid
+2033,C1033,P11033,2026-02-24T00:00:00.000000000,Annuity,Active,1171.57,Alberta,Quarterly,Paid
+2035,C1035,P11035,2026-03-23,Annuity,Active,2642.08,Nova Scotia,Annual,Pending
+1258,C0258,P10258,2026-01-17,Annuity,Active,4762.62,Ontario,Annual,Paid
+1336,C0336,P10336,2026-02-20,LIFE ,LAPSED ,3639.39,Ontario,Monthly,Paid
+1016,C0016,P10016,2026-02-24,Annuity,Active,4924.54,Alberta,Quarterly,Pending
+1902,C0902,P10902,2026-01-31,Annuity,Active,3690.71,Quebec,Quarterly,Paid
+1325,C0325,P10325,2026-02-26T00:00:00.000000000,Life,Lapsed,3154.8,Manitoba,Annual,Pending
+1608,C0608,P10608,2026-01-04T00:00:00.000000000,Life,Pending,4058.25,Nova Scotia,Quarterly,Paid
+2054,C1054,P11054,2026-01-24,Annuity,  active  ,660.07,ONTARIO ,QUARTERLY ,Paid
+1791,C0791,P10791,2026-02-19,Annuity,Active,4401.64,Quebec,Quarterly,Pending
+1223,C0223,P10223,2026-02-05T00:00:00.000000000,Life,Lapsed,2380.76,QUEBEC ,Monthly,Paid
+1180,C0180,P10180,2026-03-04,Life,Pending,2450.84,ALBERTA ,Annual,  paid  
+1100,C0100,P10100,2026-01-19T00:00:00.000000000,Life,  lapsed  ,,Ontario,  annual  ,Paid
+1522,C0522,P10522,2026-02-23,Annuity,Lapsed,1422.43,  ontario  ,Annual,Pending
+1023,C0023,P10023,2026-03-01,Annuity,Pending,1049.17,,Monthly,
+1357,C0357,P10357,2026-02-18T00:00:00.000000000,Annuity,Active,2765.38,Nova Scotia,Monthly,Pending
+1734,C0734,P10734,2026-01-15,Life,Lapsed,2666.85,Nova Scotia,Annual,Pending
+2094,C1094,P11094,2026-01-29T00:00:00.000000000,LIFE ,Pending,,Manitoba,Quarterly,Overdue
+2112,C1112,P11112,2026-01-13T00:00:00.000000000,LIFE ,Lapsed,-2924.13,Ontario,Quarterly,Overdue
+1612,C0612,P10612,2026-03-07T00:00:00.000000000,Life,Lapsed,609.8,British Columbia,  quarterly  ,  paid  
+2010,C1010,P11010,2026-01-09,ANNUITY ,Lapsed,,British Columbia,Monthly,Pending
+1341,C0341,P10341,2026-01-06T00:00:00.000000000,Life,ACTIVE ,2716.78,Quebec,Quarterly,Overdue
+1432,C0432,P10432,2026-99-99,ANNUITY ,Lapsed,4548.5,,Monthly,Pending
+1962,C0962,P10962,2026-03-06,Annuity,Lapsed,4289.15,Quebec,Monthly,Overdue
+1218,C0218,P10218,2026-03-31T00:00:00.000000000,Annuity,ACTIVE ,1935.39,Ontario,QUARTERLY ,Paid
+1204,C0204,P10204,2026-01-01,Life,Pending,2927.2,Manitoba,Monthly,Overdue
+1906,C0906,P10906,2026-01-07,Annuity,Lapsed,4170.87,Alberta,Annual,Paid
+1923,C0923,P10923,2026-03-22T00:00:00.000000000,Annuity,Active,1303.01,Ontario,Monthly,Paid
+1094,C0094,P10094,2026-03-11,  life  ,Active,2294.71,Quebec,Quarterly,Pending
+1911,C0911,P10911,2026-01-26,Life,Lapsed,-1454.2,Manitoba,Annual,  overdue  
+1069,C0069,P10069,2026-01-28T00:00:00.000000000,Life,Lapsed,-4116.52,Quebec,Annual,Paid
+1895,C0895,P10895,2026-01-29,Annuity,Pending,4113.62,Manitoba,Quarterly,Overdue
+1285,C0285,P10285,2026-03-13,Life,Lapsed,2275.35,Quebec,Annual,  paid  
+1697,C0697,P10697,2026-03-06,Annuity,Pending,760.64,Manitoba,Annual,  paid  
+1086,C0086,P10086,2026-02-23T00:00:00.000000000,Life,Active,648.73,British Columbia,Annual,Pending
+1435,C0435,P10435,2026-01-25,Life,Active,2099.13,Ontario,Annual,Paid
+1797,C0797,P10797,2026-01-12,  annuity  ,Pending,2227.31,Nova Scotia,Monthly,Paid
+1154,C0154,P10154,2026-03-31T00:00:00.000000000,Annuity,Active,3833.46,Quebec,Annual,Overdue
+1076,C0076,P10076,2026-03-11,Life,  lapsed  ,2798.36,Ontario,Annual,Paid
+2043,C1043,P11043,2026-02-27,Annuity,Pending,1638.76,Ontario,Monthly,Pending
+1581,C0581,P10581,2026-03-15,Life,Lapsed,3607.52,Alberta,Annual,Pending
+1447,C0447,P10447,2026-01-10,Life,Pending,2722.92,Quebec,  annual  ,PENDING 
+1704,C0704,P10704,2026-03-20,Life,Lapsed,4184.54,Quebec,Monthly,Pending
+1189,C0189,P10189,2026-03-05T00:00:00.000000000,LIFE ,Pending,-2994.59,Manitoba,Annual,Pending
+1272,C0272,P10272,2026-02-07T00:00:00.000000000,  life  ,Lapsed,2463.51,Nova Scotia,Quarterly,Pending
+1237,C0237,P10237,2026-01-19,Annuity,Active,910.79,Manitoba,Annual,Pending
+1488,C0488,P10488,2026-02-02T00:00:00.000000000,Life,Lapsed,2130.77,Alberta,Annual,  paid  
+2042,C1042,P11042,2026-01-29,Life,Lapsed,1757.15,British Columbia,Quarterly,Pending
+1560,C0560,P10560,2026-02-20T00:00:00.000000000,Annuity,Lapsed,906.52,  nova scotia  ,Monthly,Paid
+1118,C0118,P10118,2026-03-13,  life  ,Pending,4034.03,Nova Scotia,Annual,Pending
+1638,C0638,P10638,2026-02-23T00:00:00.000000000,Life,Pending,3234.82,Nova Scotia,Monthly,Pending
+2128,C1128,P11128,2026-01-17,Annuity,Active,3146.91,Alberta,Monthly,Overdue
+1751,C0751,P10751,2026-01-20,Annuity,Active,2057.07,  nova scotia  ,Quarterly,Overdue
+1513,C0513,P10513,2026-01-08,Annuity,Lapsed,621.93,Alberta,Monthly,Pending
+1634,C0634,P10634,2026-03-03T00:00:00.000000000,Annuity,Active,3260.35,Manitoba,Quarterly,Paid
+1786,C0786,P10786,2026-01-07,Life,  lapsed  ,,Ontario,Annual,Pending
+2007,C1007,P11007,2026-01-11,Life,Lapsed,3894.14,Nova Scotia,Monthly,Pending
+1853,C0853,P10853,2026-02-02,Annuity,Pending,3202.74,Ontario,Monthly,OVERDUE 
+1127,C0127,P10127,2026-01-08,Life,Pending,4321.51,British Columbia,Annual,PENDING 
+1117,C0117,P10117,2026-01-24T00:00:00.000000000,LIFE ,Pending,4329.18,Ontario,Monthly,Overdue
+1474,C0474,P10474,2026-01-01T00:00:00.000000000,Annuity,Lapsed,4414.53,Nova Scotia,Quarterly,Pending
+1741,C0741,P10741,2026-03-22,Annuity,Lapsed,552.29,Quebec,Annual,Paid
+1993,C0993,P10993,2026-02-10,Annuity,  lapsed  ,4213.4,ONTARIO ,Annual,Paid
+1058,C0058,P10058,2026-03-31,Life,PENDING ,614.39,Alberta,Monthly,Pending
+1604,C0604,P10604,2026-01-03T00:00:00.000000000,Annuity,Active,-3633.3,British Columbia,Monthly,  pending  
+1787,C0787,P10787,2026-03-26T00:00:00.000000000,Life,Pending,3772.26,British Columbia,Monthly,Overdue
+1971,C0971,P10971,2026-03-14,Annuity,Pending,2793.76,Manitoba,Annual,Paid
+1657,C0657,P10657,2026-02-09,Life,Pending,4692.15,British Columbia,Quarterly,  pending  
+1903,C0903,P10903,2026-02-25,  life  ,Active,4070.33,British Columbia,Annual,Paid
+1922,C0922,P10922,2026-02-02T00:00:00.000000000,Life,Lapsed,1475.33,  british columbia  ,Monthly,Overdue
+1106,C0106,P10106,2026-99-99,Annuity,ACTIVE ,2936.52,Quebec,  quarterly  ,Paid
+1636,C0636,P10636,2026-01-04,Life,Active,1542.52,Manitoba,Monthly,Paid
+1370,C0370,P10370,2026-01-03T00:00:00.000000000,Annuity,PENDING ,4528.43,Nova Scotia,Monthly,  overdue  
+1269,C0269,P10269,2026-03-18,Annuity,Active,1568.78,Nova Scotia,Monthly,Pending
+1656,C0656,P10656,2026-02-11,Annuity,Pending,4142.82,Alberta,Quarterly,Overdue
+1047,C0047,P10047,2026-02-10,Life,Active,4617.32,British Columbia,Quarterly,Paid
+1350,C0350,P10350,2026-02-19,Annuity,  lapsed  ,3208.71,British Columbia,Quarterly,  paid  
+1774,C0774,P10774,2026-01-12,Annuity,Lapsed,1611.96,Quebec,Quarterly,PAID 
+1196,C0196,P10196,2026-03-03,Annuity,Pending,3666.46,Quebec,Monthly,Pending
+1103,C0103,P10103,2026-02-08,Annuity,Lapsed,4715.28,British Columbia,Quarterly,
+1005,C0005,P10005,2026-01-24,Life,Active,3429.0,Nova Scotia,Annual,Pending
+1620,C0620,P10620,2026-01-10,Life,  pending  ,912.65,Alberta,Annual,Overdue
+1991,C0991,P10991,2026-03-21,Life,Lapsed,3941.64,Alberta,  monthly  ,Overdue
+1053,C0053,P10053,2026-03-06,Life,Lapsed,2223.17,British Columbia,ANNUAL ,Overdue
+1264,C0264,P10264,2026-02-08T00:00:00.000000000,Life,Pending,2455.03,Manitoba,Quarterly,Overdue
+2093,C1093,P11093,2026-01-13,Life,Pending,1241.67,British Columbia,Quarterly,Paid
+1444,C0444,P10444,2026-02-07,Annuity,  pending  ,3885.81,British Columbia,Monthly,
+1972,C0972,P10972,2026-03-08,Life,Active,2286.42,British Columbia,Annual,Paid
+1783,C0783,P10783,2026-01-03T00:00:00.000000000,Annuity,Lapsed,866.87,Manitoba,Annual,Pending
+1847,C0847,P10847,2026-02-24,Life,Active,4903.84,British Columbia,QUARTERLY ,Overdue
+1692,C0692,P10692,2026-03-20,LIFE ,Pending,4694.13,BRITISH COLUMBIA ,Annual,  paid  
+1305,C0305,P10305,2026-01-26,  life  ,Lapsed,2214.01,QUEBEC ,Monthly,Pending
+1342,C0342,P10342,2026-03-18,Annuity,Pending,1441.09,Ontario,  monthly  ,Paid
+1867,C0867,P10867,2026-01-01,  annuity  ,Active,1040.94,  nova scotia  ,Annual,Paid
+1314,C0314,P10314,2026-03-15,Annuity,Lapsed,2200.33,Quebec,Quarterly,Pending
+1150,C0150,P10150,2026-02-15,Life,Active,937.29,  alberta  ,  monthly  ,Paid
+1125,C0125,P10125,2026-03-09T00:00:00.000000000,Life,Lapsed,1567.62,Manitoba,Annual,Overdue
+2063,C1063,P11063,2026-03-22,Annuity,Lapsed,1829.5,Manitoba,Quarterly,Pending
+1575,C0575,P10575,2026-02-11T00:00:00.000000000,Annuity,Lapsed,,Nova Scotia,Annual,Pending
+1698,C0698,P10698,2026-03-23T00:00:00.000000000,Annuity,Pending,4421.92,Manitoba,QUARTERLY ,Pending
+1665,C0665,P10665,2026-03-22,Annuity,Active,776.83,Ontario,Monthly,PENDING 
+1051,C0051,P10051,2026-02-06,Annuity,Pending,3783.23,Ontario,Monthly,Overdue
+1727,C0727,P10727,2026-01-17,Annuity,Pending,910.24,Quebec,Quarterly,Paid
+1800,C0800,P10800,2026-01-26T00:00:00.000000000,Annuity,Lapsed,,Ontario,Monthly,Overdue
+1354,C0354,P10354,2026-01-21,Life,LAPSED ,2969.22,Alberta,Monthly,Pending
+1133,C0133,P10133,2026-01-27,Annuity,Active,2454.77,British Columbia,Annual,PENDING 
+1143,C0143,P10143,2026-02-15T00:00:00.000000000,Life,Lapsed,4849.95,Ontario,Annual,Paid
+1471,C0471,P10471,2026-02-15,  life  ,Active,1561.58,Ontario,Quarterly,Paid
+1654,C0654,P10654,2026-01-29T00:00:00.000000000,Life,Pending,4499.37,ALBERTA ,Monthly,Overdue
+1400,C0400,P10400,2026-01-08T00:00:00.000000000,Annuity,Lapsed,2644.79,Manitoba,Quarterly,Pending
+1833,C0833,P10833,2026-01-20,  annuity  ,Active,4939.84,Quebec,Quarterly,  paid  
+1938,C0938,P10938,2026-01-08T00:00:00.000000000,Annuity,  active  ,2151.3,Alberta,Quarterly,Pending
+1321,C0321,P10321,2026-02-03,Annuity,Active,2642.95,British Columbia,  annual  ,Overdue
+1020,C0020,P10020,2026-03-30,Annuity,Active,INVALID_AMT,Ontario,Quarterly,Paid
+1685,C0685,P10685,2026-01-13T00:00:00.000000000,Life,Pending,3276.17,Quebec,Annual,Pending
+1036,C0036,P10036,2026-03-21,Annuity,Active,3862.94,Alberta,Monthly,Pending
+1825,C0825,P10825,2026-03-20,Life,Pending,3011.63,British Columbia,Monthly,Overdue
+1506,C0506,P10506,2026-01-04,Annuity,Active,1318.68,Quebec,Annual,Pending
+1828,C0828,P10828,2026-02-06T00:00:00.000000000,Life,  pending  ,4714.73,Alberta,Annual,PAID 
+2071,C1071,P11071,2026-01-12,Annuity,Active,2634.51,Alberta,Monthly,Pending
+1408,C0408,P10408,2026-03-18,Annuity,Pending,2896.65,Ontario,Monthly,Paid
+1818,C0818,P10818,2026-01-01,Life,Lapsed,2522.45,Nova Scotia,Monthly,Paid
+1538,C0538,P10538,2026-02-28,Annuity,Pending,4525.49,Nova Scotia,  monthly  ,Pending
+1759,C0759,P10759,2026-01-15T00:00:00.000000000,Life,LAPSED ,1400.68,  quebec  ,Annual,Overdue
+2069,C1069,P11069,2026-03-03,Life,Active,4531.17,  ontario  ,Annual,Pending
+1893,C0893,P10893,2026-03-19,  life  ,Active,2686.42,ONTARIO ,Quarterly,Pending
+1039,C0039,P10039,2026-02-10T00:00:00.000000000,Life,Lapsed,1833.23,Nova Scotia,Quarterly,Pending
+1176,C0176,P10176,2026-02-16,Life,Active,3647.8,Ontario,  quarterly  ,Paid
+1246,C0246,P10246,2026-01-14,Life,Lapsed,2972.88,Manitoba,Monthly,Overdue
+1811,C0811,P10811,2026-01-05,  life  ,Active,1963.36,Nova Scotia,Annual,OVERDUE 
+2085,C1085,P11085,2026-02-08,  life  ,Lapsed,4309.31,Manitoba,Monthly,  overdue  
+2078,C1078,P11078,2026-02-28,  life  ,Pending,2975.41,Manitoba,Quarterly,Pending
+1785,C0785,P10785,2026-02-23,  annuity  ,Active,637.94,Manitoba,Annual,Paid
+2018,C1018,P11018,2026-03-04,Life,Active,2524.03,Quebec,Quarterly,PENDING 
+1490,C0490,P10490,2026-01-26,Annuity,Lapsed,558.93,  manitoba  ,Annual,Paid
+1155,C0155,P10155,2026-02-02,LIFE ,Pending,1114.8,Alberta,Monthly,Pending
+1639,C0639,P10639,2026-03-15,  life  ,Lapsed,711.25,Ontario,Quarterly,PAID 
+1663,C0663,P10663,2026-03-01,Life,PENDING ,992.61,Nova Scotia,Monthly,Overdue
+1854,C0854,P10854,2026-01-31,  life  ,Lapsed,3464.98,Alberta,Annual,Overdue
+1288,C0288,P10288,2026-02-05,  life  ,Lapsed,2586.64,Nova Scotia,Annual,Overdue
+1626,C0626,P10626,2026-03-06,Annuity,Active,4596.53,Ontario,Quarterly,Paid
+1038,C0038,P10038,2026-03-30,Life,Active,1764.21,Nova Scotia,Quarterly,
+1686,C0686,P10686,2026-01-17,Life,Lapsed,1021.3,Nova Scotia,Quarterly,Paid
+1873,C0873,P10873,2026-02-02,Annuity,PENDING ,1568.95,BRITISH COLUMBIA ,Annual,Paid
+1570,C0570,P10570,2026-03-22T00:00:00.000000000,Annuity,Lapsed,2733.65,Quebec,ANNUAL ,
+2144,C1144,P11144,2026-02-14,Annuity,Lapsed,1280.66,Nova Scotia,Monthly,Paid
+1735,C0735,P10735,2026-03-19,  annuity  ,ACTIVE ,3192.47,British Columbia,Annual,Overdue
+1793,C0793,P10793,2026-03-07,Annuity,Lapsed,3189.76,  manitoba  ,Annual,Overdue
+1018,C0018,P10018,2026-01-07,Life,Pending,1267.36,Nova Scotia,Monthly,Pending
+1128,C0128,P10128,2026-01-17,Life,Lapsed,1886.27,Alberta,Monthly,Pending
+1323,C0323,P10323,2026-01-12,Life,  pending  ,4173.74,Alberta,Annual,PAID 
+1256,C0256,P10256,2026-01-08T00:00:00.000000000,  annuity  ,Active,2184.22,Nova Scotia,Annual,Pending
+1944,C0944,P10944,2026-03-13T00:00:00.000000000,Annuity,Lapsed,3428.95,Nova Scotia,Monthly,Overdue
+1839,C0839,P10839,2026-02-07,Life,ACTIVE ,1128.43,British Columbia,Monthly,  paid  
+1191,C0191,P10191,2026-03-08T00:00:00.000000000,  life  ,Pending,1614.79,  manitoba  ,Annual,Pending
+1116,C0116,P10116,2026-02-23,Annuity,Active,4009.44,  ontario  ,Annual,Overdue
+1085,C0085,P10085,2026-01-02T00:00:00.000000000,Life,Pending,2762.06,British Columbia,  annual  ,Paid
+1889,C0889,P10889,2026-01-15,  life  ,Active,1595.67,British Columbia,Monthly,Paid
+1607,C0607,P10607,2026-01-15T00:00:00.000000000,Life,Active,4117.9,Alberta,Quarterly,Paid
+1181,C0181,P10181,2026-02-27T00:00:00.000000000,Life,Active,853.05,Quebec,Monthly,Pending
+1302,C0302,P10302,2026-02-02T00:00:00.000000000,Life,Active,3999.21,ONTARIO ,Quarterly,Paid
+1497,C0497,P10497,2026-01-13,Life,Lapsed,2287.93,Alberta,Monthly,Paid
+1349,C0349,P10349,2026-01-27,Life,Pending,3504.01,Manitoba,Quarterly,Paid
+2036,C1036,P11036,2026-02-21,Life,Active,INVALID_AMT,Nova Scotia,Quarterly,Paid
+1983,C0983,P10983,2026-01-14,  life  ,Active,864.14,Manitoba,Monthly,Paid
+1745,C0745,P10745,2026-02-14T00:00:00.000000000,Annuity,Pending,3906.77,Quebec,Quarterly,Pending
+1150,C0150,P10150,2026-02-15,Life,Active,937.29,Alberta,Monthly,PAID 
+1518,C0518,P10518,2026-01-08,Life,Active,947.49,  british columbia  ,Quarterly,
+1373,C0373,P10373,2026-01-28,Life,Pending,590.32,British Columbia,Quarterly,Overdue
+1046,C0046,P10046,2026-01-05T00:00:00.000000000,Life,Lapsed,4668.35,Nova Scotia,  quarterly  ,Pending
+1477,C0477,P10477,2026-03-14,Life,Lapsed,3849.12,Alberta,Quarterly,Pending
+1158,C0158,P10158,2026-02-19,Annuity,Active,4401.83,Manitoba,QUARTERLY ,Overdue
+2047,C1047,P11047,2026-03-20T00:00:00.000000000,Life,Pending,4502.26,Quebec,  annual  ,Paid
+1172,C0172,P10172,2026-03-01,  life  ,Lapsed,1969.93,Manitoba,Monthly,Overdue
+1017,C0017,P10017,2026-01-03T00:00:00.000000000,Annuity,Pending,4369.73,Quebec,Quarterly,Paid
+1512,C0512,P10512,2026-02-01,ANNUITY ,PENDING ,3721.88,  quebec  ,Quarterly,Overdue
+1049,C0049,P10049,2026-02-03,Annuity,Active,-929.35,Ontario,Monthly,Paid
+1192,C0192,P10192,2026-01-16,Life,Active,1213.91,Quebec,  quarterly  ,Pending
+1547,C0547,P10547,2026-99-99,Annuity,Lapsed,4614.34,Alberta,Monthly,Overdue
+1516,C0516,P10516,2026-03-13,Annuity,Pending,968.49,British Columbia,Quarterly,Pending
+1978,C0978,P10978,2026-02-11,Life,Lapsed,2928.8,Manitoba,Annual,Pending
+1939,C0939,P10939,2026-03-11T00:00:00.000000000,Life,PENDING ,2097.48,Alberta,Monthly,Paid
+1829,C0829,P10829,2026-01-29,Annuity,  pending  ,3380.01,British Columbia,Quarterly,  paid  
+1984,C0984,P10984,2026-01-21,ANNUITY ,Pending,603.02,Manitoba,  annual  ,OVERDUE 
+1481,C0481,P10481,2026-03-31,Life,Active,4639.35,Manitoba,Quarterly,Paid
+2129,C1129,P11129,2026-01-04T00:00:00.000000000,Life,  pending  ,INVALID_AMT,Nova Scotia,Monthly,
+1284,C0284,P10284,2026-03-15T00:00:00.000000000,Annuity,Pending,4776.85,Ontario,Monthly,OVERDUE 
+2030,C1030,P11030,2026-03-22,Annuity,Pending,993.81,ALBERTA ,Quarterly,Paid
+1798,C0798,P10798,2026-01-18,Life,Pending,3342.02,Alberta,Annual,Overdue
+1940,C0940,P10940,2026-03-09T00:00:00.000000000,Life,ACTIVE ,2490.84,Manitoba,Quarterly,Pending
+1226,C0226,P10226,2026-02-18T00:00:00.000000000,Annuity,Lapsed,3792.41,Ontario,Annual,Overdue
+1027,C0027,P10027,2026-01-02,Annuity,Active,2413.2,Manitoba,MONTHLY ,Overdue
+1283,C0283,P10283,2026-02-26T00:00:00.000000000,  life  ,Pending,4618.64,British Columbia,Annual,Pending
+2150,C1150,P11150,2026-03-02,Life,LAPSED ,4908.41,BRITISH COLUMBIA ,ANNUAL ,Pending
+1438,C0438,P10438,2026-03-11T00:00:00.000000000,Annuity,Lapsed,4729.24,MANITOBA ,Monthly,PAID 
+1784,C0784,P10784,2026-02-04T00:00:00.000000000,Life,Active,1492.53,Manitoba,Quarterly,Overdue
+1365,C0365,P10365,2026-02-25,ANNUITY ,Lapsed,2680.35,Ontario,Quarterly,Paid
+1230,C0230,P10230,2026-02-24,Life,Lapsed,3878.92,Nova Scotia,Annual,Paid
+1038,C0038,P10038,2026-03-30,Life,Active,1764.21,Nova Scotia,Quarterly,Paid
+1670,C0670,P10670,2026-01-06,Life,Lapsed,2845.67,Manitoba,Quarterly,OVERDUE 
+1750,C0750,P10750,2026-03-21,  annuity  ,Pending,2670.6,Quebec,Quarterly,Pending
+1106,C0106,P10106,2026-01-23,Annuity,Active,2936.52,Quebec,Quarterly,Paid
+1375,C0375,P10375,2026-03-27T00:00:00.000000000,Annuity,Pending,1973.74,Manitoba,  annual  ,Pending
+1470,C0470,P10470,2026-01-11,Life,Pending,2528.78,  nova scotia  ,Quarterly,PAID 
+1883,C0883,P10883,2026-02-06,Life,Active,1607.31,Nova Scotia,Annual,Paid
+1330,C0330,P10330,2026-02-07,  life  ,Pending,3236.4,,Annual,Paid
+1688,C0688,P10688,2026-02-04,Life,Pending,,Quebec,Annual,Overdue
+1033,C0033,P10033,2026-01-15T00:00:00.000000000,Life,Lapsed,898.22,Quebec,Annual,Pending
+2011,C1011,P11011,2026-03-14T00:00:00.000000000,Life,Active,4022.13,Nova Scotia,Annual,Paid
+1624,C0624,P10624,2026-99-99,Annuity,Active,3719.99,Manitoba,Annual,
+1195,C0195,P10195,2026-02-16T00:00:00.000000000,Life,PENDING ,,Quebec,Annual,Overdue
+2106,C1106,P11106,2026-01-05,Life,Lapsed,4466.53,,Quarterly,Paid
+2114,C1114,P11114,2026-03-31,Life,Active,4279.84,Ontario,Annual,Pending
+2064,C1064,P11064,2026-01-25,Life,Pending,4891.96,Alberta,Quarterly,Pending
+1504,C0504,P10504,2026-99-99,Annuity,Pending,2874.41,British Columbia,Annual,Paid
+1916,C0916,P10916,2026-01-24,Life,Lapsed,4201.76,Nova Scotia,Quarterly,Overdue
+1977,C0977,P10977,2026-99-99,Annuity,PENDING ,4687.68,Nova Scotia,  annual  ,Pending
+1723,C0723,P10723,2026-01-25,Life,Active,3717.16,ALBERTA ,Quarterly,Paid
+2088,C1088,P11088,2026-01-08,Life,Pending,3866.86,Ontario,Quarterly,Pending
+1801,C0801,P10801,2026-03-28,Life,Lapsed,3346.43,Nova Scotia,  quarterly  ,Overdue
+1580,C0580,P10580,2026-02-18,Life,Active,1115.68,Manitoba,Monthly,Pending
+1161,C0161,P10161,2026-02-14,Life,Lapsed,1374.23,Alberta,Monthly,Overdue
+1681,C0681,P10681,2026-02-22,  annuity  ,Lapsed,3845.79,Alberta,Quarterly,Paid
+1034,C0034,P10034,2026-03-28,Life,Active,2843.75,  british columbia  ,Monthly,Paid
+1163,C0163,P10163,2026-01-16T00:00:00.000000000,Annuity,Lapsed,728.46,Nova Scotia,Annual,Pending
+1822,C0822,P10822,2026-02-06,Annuity,Pending,2105.29,Ontario,Monthly,Pending
+1706,C0706,P10706,2026-01-26,  annuity  ,Lapsed,1215.22,Alberta,Monthly,Overdue
+2009,C1009,P11009,2026-03-14,Annuity,PENDING ,2436.52,Quebec,Annual,Paid
+1878,C0878,P10878,2026-01-09,Life,Lapsed,2209.04,  ontario  ,  monthly  ,Pending
+1896,C0896,P10896,2026-02-04,  life  ,Active,3114.19,Quebec,ANNUAL ,  pending  
+1914,C0914,P10914,2026-03-21,Life,Active,3004.87,Alberta,MONTHLY ,Pending
+1865,C0865,P10865,2026-01-13,Annuity,Pending,4090.16,British Columbia,QUARTERLY ,Overdue
+1153,C0153,P10153,2026-01-27,Annuity,Lapsed,1828.81,Quebec,QUARTERLY ,Overdue
+1979,C0979,P10979,2026-02-14,Life,Pending,2212.8,Nova Scotia,ANNUAL ,Pending
+2003,C1003,P11003,2026-01-02T00:00:00.000000000,Life,Active,3425.9,Manitoba,Annual,Pending
+1510,C0510,P10510,2026-02-03T00:00:00.000000000,Life,Pending,2339.3,Quebec,QUARTERLY ,Overdue
+1112,C0112,P10112,2026-02-01T00:00:00.000000000,ANNUITY ,Lapsed,3348.96,Quebec,Monthly,Overdue
+1227,C0227,P10227,2026-02-05,Life,Lapsed,2174.08,Ontario,Annual,Pending
+1986,C0986,P10986,2026-03-19T00:00:00.000000000,Life,Lapsed,4890.25,Ontario,Monthly,Paid
+1852,C0852,P10852,2026-03-30,ANNUITY ,Pending,3602.87,Ontario,Monthly,Paid
+1104,C0104,P10104,2026-01-01,  life  ,  lapsed  ,3540.61,QUEBEC ,Annual,Pending
+1422,C0422,P10422,2026-01-01,ANNUITY ,Active,3835.04,,Monthly,Paid
+1420,C0420,P10420,2026-03-16,Life,Active,4722.53,  british columbia  ,QUARTERLY ,Pending
+1625,C0625,P10625,2026-02-06,Life,Active,689.42,Alberta,Monthly,Overdue
+1587,C0587,P10587,2026-01-25T00:00:00.000000000,Life,Active,4565.14,BRITISH COLUMBIA ,Annual,
+2061,C1061,P11061,2026-99-99,Annuity,Active,1692.71,Quebec,Quarterly,Overdue
+1920,C0920,P10920,2026-02-24T00:00:00.000000000,Life,Pending,3139.74,Alberta,Monthly,Pending
+1673,C0673,P10673,2026-02-10,Annuity,Lapsed,2003.04,British Columbia,Quarterly,Overdue
+1120,C0120,P10120,2026-03-30,Life,Pending,3485.76,Nova Scotia,Annual,Paid
+1054,C0054,P10054,2026-02-16T00:00:00.000000000,Life,Active,3709.6,Alberta,Quarterly,Overdue
+1152,C0152,P10152,2026-01-23,Life,Lapsed,1130.38,Ontario,Annual,Pending
+1404,C0404,P10404,2026-01-20,  annuity  ,Active,1590.84,British Columbia,Quarterly,PAID 
+1768,C0768,P10768,2026-01-07T00:00:00.000000000,Life,Pending,3473.69,British Columbia,Annual,Overdue
+1208,C0208,P10208,2026-01-24,Annuity,Active,3547.26,British Columbia,Annual,Paid
+2135,C1135,P11135,2026-03-01,Annuity,  pending  ,4212.72,Nova Scotia,ANNUAL ,Paid
+1659,C0659,P10659,2026-03-29,Annuity,Active,1636.92,Nova Scotia,Monthly,Paid
+2097,C1097,P11097,2026-03-29,Annuity,Pending,2040.73,Manitoba,Annual,Paid
+1233,C0233,P10233,2026-03-03,Life,Active,,Ontario,Monthly,Overdue
+1009,C0009,P10009,2026-02-02,ANNUITY ,Lapsed,1869.09,,ANNUAL ,Pending
+1160,C0160,P10160,2026-01-07,  life  ,Active,2756.82,Nova Scotia,Annual,Paid
+1037,C0037,P10037,2026-02-22T00:00:00.000000000,ANNUITY ,Lapsed,3140.38,  quebec  ,Quarterly,Paid
+1453,C0453,P10453,2026-01-05,Life,Active,,Alberta,Annual,Overdue
+1652,C0652,P10652,2026-01-11,Life,Active,4448.57,Manitoba,  quarterly  ,Pending
+1254,C0254,P10254,2026-03-07,Life,  lapsed  ,INVALID_AMT,Alberta,Quarterly,PAID 
+1304,C0304,P10304,2026-02-18,Annuity,Lapsed,2195.33,Nova Scotia,Monthly,Overdue
+1897,C0897,P10897,2026-02-05,Annuity,Active,3729.36,Quebec,  monthly  ,Pending
+2049,C1049,P11049,2026-03-24,Annuity,Pending,975.62,Quebec,Quarterly,Overdue
+1881,C0881,P10881,2026-01-26T00:00:00.000000000,Life,Lapsed,990.13,Ontario,Quarterly,PAID 
+1572,C0572,P10572,2026-03-14T00:00:00.000000000,Life,  lapsed  ,838.12,Ontario,Annual,Overdue
+1624,C0624,P10624,2026-03-09,Annuity,Active,3719.99,  manitoba  ,Annual,Paid
+2145,C1145,P11145,2026-03-11,Life,Lapsed,3362.8,British Columbia,Annual,Pending
+2031,C1031,P11031,2026-03-01,Life,ACTIVE ,3407.41,Ontario,  annual  ,Pending
+2146,C1146,P11146,2026-02-16T00:00:00.000000000,LIFE ,Active,1032.51,Quebec,  monthly  ,Overdue
+1263,C0263,P10263,2026-03-15,Life,Pending,4578.59,  manitoba  ,  monthly  ,PENDING 
+1611,C0611,P10611,2026-02-11,Life,Lapsed,4444.99,Nova Scotia,Annual,  pending  
+1298,C0298,P10298,2026-03-10,Life,Active,3260.37,Manitoba,Monthly,Pending
+1990,C0990,P10990,2026-01-14,Life,Active,1126.39,  alberta  ,Quarterly,Pending
+1415,C0415,P10415,2026-03-16T00:00:00.000000000,  life  ,  active  ,2629.25,British Columbia,Annual,Overdue
+1151,C0151,P10151,2026-02-01,  life  ,  lapsed  ,3520.15,Alberta,Quarterly,Overdue
+1946,C0946,P10946,2026-01-03,Annuity,Lapsed,1356.46,Nova Scotia,Annual,Pending
+1473,C0473,P10473,2026-02-23,Annuity,  pending  ,4268.71,Nova Scotia,Quarterly,Pending
+1953,C0953,P10953,2026-01-31,Life,Pending,3896.77,Alberta,Monthly,Pending
+1988,C0988,P10988,2026-01-25,Annuity,Pending,2657.09,Manitoba,Quarterly,Paid
+1779,C0779,P10779,2026-02-20,Annuity,Active,1227.53,Quebec,QUARTERLY ,Paid
+1641,C0641,P10641,2026-01-03T00:00:00.000000000,Life,Lapsed,4217.93,Alberta,Monthly,Pending
+1698,C0698,P10698,2026-99-99,Annuity,Pending,4421.92,Manitoba,Quarterly,Pending
+2143,C1143,P11143,2026-02-16,Annuity,Pending,4992.56,Alberta,Annual,PENDING 
+1551,C0551,P10551,2026-03-17,  life  ,Active,,Nova Scotia,MONTHLY ,Overdue
+1640,C0640,P10640,2026-02-26,Annuity,Active,1492.19,Nova Scotia,Monthly,Paid
+1936,C0936,P10936,2026-02-05T00:00:00.000000000,Annuity,Pending,885.46,Nova Scotia,Annual,  pending  
+1929,C0929,P10929,2026-02-04T00:00:00.000000000,ANNUITY ,Active,3186.71,Ontario,  monthly  ,Pending
+1489,C0489,P10489,2026-03-04,Annuity,PENDING ,1749.14,Ontario,Monthly,Overdue
+1820,C0820,P10820,2026-01-01T00:00:00.000000000,Life,Active,1636.38,  quebec  ,Annual,  pending  
+1711,C0711,P10711,2026-02-01T00:00:00.000000000,Life,Active,870.71,Alberta,  monthly  ,Pending
+2081,C1081,P11081,2026-02-13,Life,Active,1388.62,British Columbia,Quarterly,  paid  
+1148,C0148,P10148,2026-01-25,Annuity,Pending,2276.11,British Columbia,Quarterly,Overdue
+1147,C0147,P10147,2026-03-08T00:00:00.000000000,ANNUITY ,LAPSED ,1262.72,Quebec,Quarterly,Overdue
+1934,C0934,P10934,2026-03-09,Annuity,Pending,3759.52,Ontario,Annual,Overdue
+1963,C0963,P10963,2026-01-21,Life,ACTIVE ,918.18,Ontario,Annual,Pending
+1346,C0346,P10346,2026-01-08,  life  ,Lapsed,1310.3,British Columbia,ANNUAL ,Pending
+1403,C0403,P10403,2026-03-09,Life,Pending,2414.46,ALBERTA ,ANNUAL ,Pending
+1932,C0932,P10932,2026-03-16,Annuity,Lapsed,4960.65,ONTARIO ,Quarterly,Pending
+1955,C0955,P10955,2026-03-03,Life,Lapsed,2402.1,Quebec,Monthly,Paid
+2125,C1125,P11125,2026-01-21,Life,Pending,630.82,Nova Scotia,Quarterly,Pending
+1660,C0660,P10660,2026-02-07,Annuity,Active,1668.89,Alberta,  quarterly  ,Paid
+1464,C0464,P10464,2026-03-01,Life,Active,3168.33,Manitoba,Monthly,Overdue
+1187,C0187,P10187,2026-02-17,Life,Lapsed,1322.9,Manitoba,Annual,Paid
+1609,C0609,P10609,2026-99-99,Life,Active,3820.35,Manitoba,Monthly,Paid
+1144,C0144,P10144,2026-03-01,Annuity,  active  ,4338.54,  quebec  ,Monthly,  pending  
+1752,C0752,P10752,2026-02-09,LIFE ,PENDING ,543.97,Quebec,Quarterly,  overdue  
+1982,C0982,P10982,2026-03-21T00:00:00.000000000,Life,Pending,1453.92,Alberta,Annual,Paid
+1198,C0198,P10198,2026-03-31T00:00:00.000000000,Life,Lapsed,2712.27,Quebec,Quarterly,Paid
+1884,C0884,P10884,2026-01-15,Annuity,Lapsed,2274.64,Nova Scotia,Quarterly,Overdue
+1280,C0280,P10280,2026-01-14,Life,Lapsed,1825.22,British Columbia,Monthly,Pending
+1294,C0294,P10294,2026-03-25,Life,Active,3212.52,Manitoba,MONTHLY ,Paid
+2089,C1089,P11089,2026-01-07T00:00:00.000000000,Annuity,Pending,1312.68,Quebec,Monthly,Paid
+1401,C0401,P10401,2026-02-14,Annuity,Lapsed,3962.72,Quebec,Quarterly,Overdue
+1123,C0123,P10123,2026-02-04,ANNUITY ,  lapsed  ,3433.83,Ontario,Annual,Overdue
+1203,C0203,P10203,2026-01-19T00:00:00.000000000,Annuity,Lapsed,2764.11,Manitoba,Annual,Overdue
+1836,C0836,P10836,2026-02-26,Annuity,Pending,3110.51,Manitoba,Quarterly,Paid
+1247,C0247,P10247,2026-01-05T00:00:00.000000000,Life,ACTIVE ,3816.66,MANITOBA ,Annual,  overdue  
+2140,C1140,P11140,2026-01-19,Life,Pending,2480.9,,Quarterly,Pending
+1385,C0385,P10385,2026-02-25T00:00:00.000000000,ANNUITY ,PENDING ,2742.11,  ontario  ,Monthly,Overdue
+1855,C0855,P10855,2026-02-22,Life,Lapsed,3501.37,Manitoba,Annual,Overdue
+1220,C0220,P10220,2026-02-03,Annuity,Active,1673.13,Manitoba,Monthly,Paid
+1642,C0642,P10642,2026-01-05T00:00:00.000000000,Life,Active,760.29,Quebec,Monthly,Overdue
+1002,C0002,P10002,2026-03-13T00:00:00.000000000,Annuity,PENDING ,3193.96,Quebec,Annual,PAID 
+1113,C0113,P10113,2026-01-09,Life,Pending,1754.92,Manitoba,Quarterly,Paid
+1699,C0699,P10699,2026-03-05,Life,Lapsed,3542.24,Alberta,Quarterly,Paid
+1952,C0952,P10952,2026-02-05,Annuity,Lapsed,,Alberta,Monthly,Paid
+2079,C1079,P11079,2026-03-30,Annuity,Pending,1236.58,  manitoba  ,Annual,  overdue  
+1442,C0442,P10442,2026-02-02,Life,Pending,2900.57,Nova Scotia,Quarterly,Paid
+1664,C0664,P10664,2026-01-28,Life,Active,842.59,Nova Scotia,Monthly,Paid
+1151,C0151,P10151,2026-02-01,Life,Lapsed,3520.15,Alberta,Quarterly,OVERDUE 
+1318,C0318,P10318,2026-03-06,Life,Lapsed,3522.65,NOVA SCOTIA ,Monthly,
+1649,C0649,P10649,2026-01-13,Life,Active,1507.18,Alberta,Monthly,Paid
+1710,C0710,P10710,2026-01-29,Annuity,Pending,1842.68,Manitoba,QUARTERLY ,Paid
+1973,C0973,P10973,2026-01-23T00:00:00.000000000,Annuity,PENDING ,4740.74,Nova Scotia,Monthly,Paid
+1628,C0628,P10628,2026-02-18,Annuity,Pending,2262.34,  nova scotia  ,Annual,Pending
+1633,C0633,P10633,2026-02-15,Annuity,Pending,3203.59,,Monthly,Pending
+1951,C0951,P10951,2026-01-22T00:00:00.000000000,ANNUITY ,Active,3030.34,ALBERTA ,ANNUAL ,OVERDUE 
+2107,C1107,P11107,2026-01-04T00:00:00.000000000,Annuity,Lapsed,946.3,Nova Scotia,  quarterly  ,Paid
+1796,C0796,P10796,2026-02-27T00:00:00.000000000,Annuity,Pending,4605.64,Alberta,Monthly,  overdue  
+1646,C0646,P10646,2026-02-04,Life,  pending  ,3912.07,Manitoba,Quarterly,Paid
+2013,C1013,P11013,2026-01-04T00:00:00.000000000,Life,Active,3349.35,  nova scotia  ,Annual,Overdue
+1557,C0557,P10557,2026-03-26T00:00:00.000000000,Annuity,  active  ,2224.12,Ontario,Annual,  overdue  
+1682,C0682,P10682,2026-01-31T00:00:00.000000000,Annuity,Active,505.04,Quebec,Monthly,Overdue
+1578,C0578,P10578,2026-01-12T00:00:00.000000000,Annuity,Active,2124.38,Alberta,Quarterly,Pending
+1525,C0525,P10525,2026-02-02,Life,  active  ,1435.49,Quebec,Annual,Paid
+2060,C1060,P11060,2026-02-27,Life,Lapsed,942.78,ALBERTA ,Monthly,Paid
+1541,C0541,P10541,2026-02-09,Annuity,Active,3644.81,Quebec,Quarterly,Paid
+1749,C0749,P10749,2026-02-15,Annuity,Active,1141.23,Ontario,Annual,Overdue
+2110,C1110,P11110,2026-02-15,LIFE ,Lapsed,3271.93,Ontario,Quarterly,Paid
+1485,C0485,P10485,2026-02-20,Annuity,Lapsed,1617.02,Manitoba,Annual,Overdue
+1096,C0096,P10096,2026-02-28,Life,Lapsed,1339.33,Alberta,Annual,Pending
+2021,C1021,P11021,2026-03-27,ANNUITY ,Lapsed,4837.2,British Columbia,Annual,Paid
+1564,C0564,P10564,2026-02-08T00:00:00.000000000,Annuity,Active,3246.82,,Annual,Pending
+1743,C0743,P10743,2026-03-23T00:00:00.000000000,Annuity,Pending,2659.72,Nova Scotia,Quarterly,Paid
+1864,C0864,P10864,2026-03-11,Life,Pending,4556.19,Manitoba,Annual,Pending
+1892,C0892,P10892,2026-03-27,Life,Pending,1375.51,Manitoba,Quarterly,Overdue
+2039,C1039,P11039,2026-03-05,Annuity,Active,4041.07,Ontario,  annual  ,Pending
+1207,C0207,P10207,2026-02-01,  annuity  ,Active,4731.04,Alberta,Monthly,Pending
+1393,C0393,P10393,2026-02-09,LIFE ,Lapsed,3636.33,Nova Scotia,Annual,Overdue
+1795,C0795,P10795,2026-02-11T00:00:00.000000000,  annuity  ,  lapsed  ,4964.6,,Monthly,Paid
+1871,C0871,P10871,2026-99-99,Annuity,Active,3629.6,Quebec,Quarterly,Pending
+1398,C0398,P10398,2026-02-20,  life  ,Active,4193.88,Nova Scotia,Annual,Paid
+1767,C0767,P10767,2026-03-25,Annuity,Active,2027.53,BRITISH COLUMBIA ,Annual,Overdue
+2100,C1100,P11100,2026-01-03,Annuity,Lapsed,1838.97,Nova Scotia,  monthly  ,Overdue
+2029,C1029,P11029,2026-02-14T00:00:00.000000000,Life,PENDING ,691.85,Ontario,Annual,  paid  
+1643,C0643,P10643,2026-02-16,Annuity,Lapsed,-1473.46,Ontario,Annual,Pending
+1613,C0613,P10613,2026-02-11,Annuity,Pending,4956.54,Ontario,Monthly,Pending
+1961,C0961,P10961,2026-01-05,Life,Pending,,British Columbia,Monthly,  overdue  
+1726,C0726,P10726,2026-03-01,  life  ,Lapsed,1334.86,British Columbia,  monthly  ,Paid
+1684,C0684,P10684,2026-01-12,Annuity,Pending,528.74,British Columbia,Annual,PAID 
+1099,C0099,P10099,2026-03-31T00:00:00.000000000,Life,Lapsed,-2804.42,Ontario,Quarterly,Pending
+1805,C0805,P10805,2026-99-99,  annuity  ,Lapsed,-2322.59,  nova scotia  ,Quarterly,Pending
+1407,C0407,P10407,2026-02-06,Life,ACTIVE ,2777.47,Ontario,Monthly,PAID 
+1503,C0503,P10503,2026-01-18T00:00:00.000000000,Annuity,Pending,1823.2,Alberta,Monthly,Pending
+2072,C1072,P11072,2026-01-02,Annuity,  pending  ,3208.47,British Columbia,Annual,Pending
+2057,C1057,P11057,2026-01-11,Annuity,Active,4868.37,Ontario,Quarterly,Overdue
+1930,C0930,P10930,2026-01-18T00:00:00.000000000,Annuity,Pending,2319.43,Nova Scotia,Quarterly,PENDING 
+1780,C0780,P10780,2026-03-11,Life,Active,INVALID_AMT,Quebec,Annual,Overdue
+1201,C0201,P10201,2026-03-10,  annuity  ,  active  ,4490.06,British Columbia,ANNUAL ,Overdue
+1135,C0135,P10135,2026-01-28,Life,Active,3510.16,Quebec,Annual,Paid
+2052,C1052,P11052,2026-03-28,Annuity,Pending,3723.46,Alberta,Quarterly,  pending  
+1041,C0041,P10041,2026-03-12T00:00:00.000000000,Life,Active,2405.31,British Columbia,Monthly,Paid
+2018,C1018,P11018,2026-03-04,Life,Active,2524.03,Quebec,Quarterly,  pending  
+1231,C0231,P10231,2026-03-30,Life,Pending,1572.06,Manitoba,Quarterly,Paid
+1379,C0379,P10379,2026-01-18T00:00:00.000000000,Life,Lapsed,891.14,NOVA SCOTIA ,Quarterly,Overdue
+1289,C0289,P10289,2026-02-27,Annuity,Active,1532.28,Ontario,Monthly,PENDING 
+1419,C0419,P10419,2026-99-99,Annuity,Lapsed,-4698.22,Nova Scotia,Annual,Overdue
+1392,C0392,P10392,2026-01-03,  annuity  ,Lapsed,-2860.3,Ontario,Annual,Paid
+1593,C0593,P10593,2026-03-26,Life,Active,2629.45,ONTARIO ,Annual,Paid
+2087,C1087,P11087,2026-01-13,Annuity,Lapsed,1494.79,Ontario,Monthly,Paid
+1648,C0648,P10648,2026-01-03T00:00:00.000000000,ANNUITY ,  lapsed  ,4171.25,Alberta,Quarterly,Overdue
+1521,C0521,P10521,2026-03-09T00:00:00.000000000,Annuity,Lapsed,4749.84,Alberta,Quarterly,Paid
+1065,C0065,P10065,2026-03-12,Life,Pending,1803.88,Ontario,Monthly,PENDING 
+1015,C0015,P10015,2026-03-03,  life  ,Pending,1398.53,Quebec,ANNUAL ,Paid
+2065,C1065,P11065,2026-03-20T00:00:00.000000000,Life,  lapsed  ,1425.59,Ontario,Quarterly,Overdue
+1493,C0493,P10493,2026-02-18,Annuity,LAPSED ,3007.87,,  quarterly  ,  overdue  
+1380,C0380,P10380,2026-03-27,Life,LAPSED ,3140.79,Alberta,Annual,Overdue
+1188,C0188,P10188,2026-01-01,Life,LAPSED ,4796.89,Quebec,  annual  ,PAID 
+1764,C0764,P10764,2026-02-01,Annuity,Lapsed,1844.76,Nova Scotia,Quarterly,Pending
+1217,C0217,P10217,2026-02-04T00:00:00.000000000,Annuity,Lapsed,2014.49,British Columbia,Annual,  paid  
+1792,C0792,P10792,2026-02-05T00:00:00.000000000,Annuity,Active,INVALID_AMT,Quebec,Quarterly,Pending
+2077,C1077,P11077,2026-02-24,Life,LAPSED ,927.55,Alberta,Annual,Paid
+1879,C0879,P10879,2026-01-26T00:00:00.000000000,Annuity,Pending,4781.65,Alberta,Annual,Pending
+1338,C0338,P10338,2026-02-25,Annuity,Active,4289.41,Nova Scotia,Annual,Paid
+1720,C0720,P10720,2026-02-27,Annuity,ACTIVE ,4523.45,Quebec,Annual,Overdue
+1296,C0296,P10296,2026-02-04T00:00:00.000000000,LIFE ,Lapsed,INVALID_AMT,Quebec,Monthly,Overdue
+2017,C1017,P11017,2026-02-19T00:00:00.000000000,Life,Pending,1088.2,Manitoba,Quarterly,Overdue
+1456,C0456,P10456,2026-02-05T00:00:00.000000000,Life,Lapsed,2942.26,  manitoba  ,Quarterly,Paid
+1816,C0816,P10816,2026-01-14T00:00:00.000000000,Life,Pending,1989.0,ALBERTA ,Monthly,Pending
+1270,C0270,P10270,2026-03-04,Annuity,Pending,2649.72,Quebec,Monthly,Paid
+1996,C0996,P10996,2026-03-09T00:00:00.000000000,Life,Lapsed,1108.25,BRITISH COLUMBIA ,MONTHLY ,PENDING 
+1202,C0202,P10202,2026-02-21,Life,Pending,2185.76,Manitoba,Monthly,Pending
+1162,C0162,P10162,2026-01-08,Life,Pending,3658.85,Nova Scotia,MONTHLY ,Paid
+1730,C0730,P10730,2026-99-99,ANNUITY ,Active,3317.99,  manitoba  ,Quarterly,Overdue
+1402,C0402,P10402,2026-03-11T00:00:00.000000000,  annuity  ,Lapsed,4855.97,Manitoba,Monthly,Pending
+1703,C0703,P10703,2026-02-02,  life  ,Active,1956.25,Manitoba,Annual,PAID 
+2130,C1130,P11130,2026-01-03T00:00:00.000000000,Life,Lapsed,791.84,  quebec  ,Annual,Pending
+1566,C0566,P10566,2026-99-99,Annuity,Lapsed,4715.73,Alberta,Quarterly,PAID 
+2022,C1022,P11022,2026-02-24,Life,Pending,2372.69,Manitoba,Quarterly,  overdue  
+2026,C1026,P11026,2026-02-08T00:00:00.000000000,Annuity,Active,3285.27,Manitoba,Monthly,Overdue
+2105,C1105,P11105,2026-01-16,Life,Lapsed,-4152.88,Nova Scotia,Monthly,Overdue
+1206,C0206,P10206,2026-03-21T00:00:00.000000000,Annuity,Pending,3390.89,,Annual,  pending  
+1035,C0035,P10035,2026-03-03,Annuity,Pending,INVALID_AMT,British Columbia,Monthly,Paid
+1776,C0776,P10776,2026-01-19,Annuity,Pending,4891.39,Quebec,Annual,Overdue
+1509,C0509,P10509,2026-03-15,Annuity,Lapsed,4538.44,Manitoba,Monthly,Pending
+1871,C0871,P10871,2026-01-15,Annuity,Active,3629.6,Quebec,Quarterly,Pending
+1092,C0092,P10092,2026-01-17,Life,  pending  ,3776.97,Ontario,Annual,Overdue
+1898,C0898,P10898,2026-99-99,Life,Lapsed,1726.81,Ontario,Quarterly,Paid
+1565,C0565,P10565,2026-99-99,Life,Lapsed,2642.23,Quebec,Quarterly,Paid
+1777,C0777,P10777,2026-02-14,Life,Active,1319.53,Ontario,Annual,Pending
+1242,C0242,P10242,2026-03-26T00:00:00.000000000,Annuity,Active,3885.69,Quebec,Annual,Paid
+1014,C0014,P10014,2026-03-03,  annuity  ,Pending,907.73,Quebec,Monthly,Paid
+1316,C0316,P10316,2026-01-01,Annuity,Pending,4793.23,Manitoba,Quarterly,Paid
+1601,C0601,P10601,2026-01-17,Life,  lapsed  ,-3425.75,Ontario,Monthly,Overdue
+1388,C0388,P10388,2026-01-21,Life,Lapsed,1187.87,Quebec,Monthly,Pending
+1167,C0167,P10167,2026-01-25,Life,Lapsed,1197.69,Nova Scotia,Monthly,Pending
+1841,C0841,P10841,2026-02-19,Life,Pending,1408.34,Nova Scotia,Quarterly,Paid
+1021,C0021,P10021,2026-01-09,Annuity,Active,INVALID_AMT,Quebec,Monthly,Overdue
+1647,C0647,P10647,2026-03-03T00:00:00.000000000,Life,  pending  ,4983.51,Ontario,Quarterly,PAID 
+1080,C0080,P10080,2026-02-01,Life,  lapsed  ,2834.56,  nova scotia  ,Annual,Pending
+1832,C0832,P10832,2026-02-20T00:00:00.000000000,Annuity,PENDING ,687.08,Manitoba,QUARTERLY ,Pending
+1563,C0563,P10563,2026-02-05,Annuity,Active,3735.71,Ontario,Monthly,Paid
+1993,C0993,P10993,2026-02-10,Annuity,Lapsed,4213.4,Ontario,Annual,Paid
+1687,C0687,P10687,2026-03-01,Life,Pending,540.83,Alberta,Monthly,Overdue
+1958,C0958,P10958,2026-01-08,Annuity,PENDING ,4079.52,Manitoba,Quarterly,Overdue
+1190,C0190,P10190,2026-01-22,Life,Lapsed,3785.18,British Columbia,Quarterly,Pending
+1976,C0976,P10976,2026-01-15,Life,Pending,4964.71,Quebec,Quarterly,Paid
+1700,C0700,P10700,2026-03-17,Annuity,Lapsed,3873.43,British Columbia,Annual,Paid
+1511,C0511,P10511,2026-03-28,Life,Pending,4905.19,Alberta,Quarterly,Pending
+2083,C1083,P11083,2026-01-21,Annuity,Pending,1786.58,Alberta,Quarterly,Overdue
+1475,C0475,P10475,2026-02-24T00:00:00.000000000,Annuity,Active,1523.28,Nova Scotia,Quarterly,
+1857,C0857,P10857,2026-03-07,Annuity,Lapsed,4997.36,Ontario,Annual,Pending
+1748,C0748,P10748,2026-02-10,Annuity,Active,1589.2,Nova Scotia,Quarterly,Paid
+1253,C0253,P10253,2026-02-19,Life,Active,,Manitoba,Annual,PENDING 
+1022,C0022,P10022,2026-01-02,Annuity,Lapsed,3579.05,  nova scotia  ,Annual,Pending
+1460,C0460,P10460,2026-01-06T00:00:00.000000000,  annuity  ,ACTIVE ,2303.83,  nova scotia  ,Quarterly,Overdue
+1277,C0277,P10277,2026-02-05,Annuity,LAPSED ,2992.34,Ontario,Quarterly,Overdue
+1956,C0956,P10956,2026-02-24,  life  ,Pending,3902.73,British Columbia,  quarterly  ,  paid  
+1386,C0386,P10386,2026-03-11T00:00:00.000000000,ANNUITY ,Lapsed,3225.99,Manitoba,Annual,Pending
+1806,C0806,P10806,2026-01-14,ANNUITY ,Lapsed,2816.68,British Columbia,  annual  ,Paid
+1344,C0344,P10344,2026-01-23T00:00:00.000000000,Life,Pending,1076.21,  british columbia  ,Annual,Pending
+1770,C0770,P10770,2026-02-27,Annuity,Lapsed,4027.25,Ontario,  quarterly  ,Overdue
+1131,C0131,P10131,2026-99-99,Life,LAPSED ,4878.55,Manitoba,QUARTERLY ,  paid  
+1872,C0872,P10872,2026-03-01T00:00:00.000000000,  life  ,Active,2968.25,Alberta,Annual,Overdue
+2124,C1124,P11124,2026-03-26T00:00:00.000000000,Life,ACTIVE ,508.46,British Columbia,  quarterly  ,Overdue
+1088,C0088,P10088,2026-01-02,Annuity,Lapsed,,  nova scotia  ,  annual  ,Overdue
+1331,C0331,P10331,2026-03-23,  life  ,Lapsed,2265.1,British Columbia,Annual,Overdue
+1467,C0467,P10467,2026-01-31,Life,Active,3230.22,Alberta,Quarterly,Paid
+1122,C0122,P10122,2026-03-23,Life,Lapsed,2685.26,British Columbia,Monthly,Pending
+2045,C1045,P11045,2026-02-03T00:00:00.000000000,Annuity,Lapsed,2238.57,Nova Scotia,Quarterly,Pending
+2096,C1096,P11096,2026-03-20,  annuity  ,Active,2776.34,Ontario,Quarterly,Overdue
+2131,C1131,P11131,2026-03-21,Life,Pending,1514.47,Nova Scotia,Annual,Pending
+1861,C0861,P10861,2026-03-18,  life  ,Lapsed,1799.09,Ontario,QUARTERLY ,Overdue
+2127,C1127,P11127,2026-02-26T00:00:00.000000000,  life  ,Lapsed,2244.53,Nova Scotia,Monthly,Pending
